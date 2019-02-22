@@ -1,0 +1,26 @@
+namespace KaliteGiris.EfDal.Migrations
+{
+    using System;
+    using System.Data.Entity.Migrations;
+    
+    public partial class AlimTipiUpdate2 : DbMigration
+    {
+        public override void Up()
+        {
+            CreateTable(
+                "dbo.AlimTipi",
+                c => new
+                    {
+                        AlimTipiId = c.Guid(nullable: false, identity: true),
+                        AlimTipiAdi = c.String(maxLength: 100),
+                    })
+                .PrimaryKey(t => t.AlimTipiId);
+            
+        }
+        
+        public override void Down()
+        {
+            DropTable("dbo.AlimTipi");
+        }
+    }
+}

@@ -1,0 +1,45 @@
+﻿<ul class="sidebar-menu" id="nav-accordion">
+    @foreach (var item in ViewBag.ListMenu)
+    {
+        foreach (var item1 in ViewBag.ListMenuRole)
+        {
+            if (item.MenuId == item1.MenuId && item1.RolId == ViewBag.Kullanici.RolId)
+            {
+                if (item.QuickAccess == true)
+                {
+                    <li class="sub-menu">
+                        <a href="/@item.Controler/@item.Action" id="@item.MenuLink">
+                            <i class="@item.IconName"></i>
+                            <span>@item.MenuName</span>
+                        </a>
+                        <ul class="sub">
+                            @foreach (var item2 in ViewBag.ListMenu)
+                            {
+                                if (item2.ParentMenuId == item.MenuId)
+                                {
+                                    
+                                    <li>
+                                        <a href="/@item2.Controler/@item2.Action" id="@item2.MenuLink">
+                                            <i class="@item2.IconName"></i>
+                                            <span>@item2.MenuName</span>
+                                        </a>
+                                    </li>
+                                }
+                            }
+                        </ul>
+                    </li>
+                }
+                else
+                {
+                    <li>
+                        <a href="/@item.Controler/@item.Action" id="@item.MenuLink">
+                            <i class="@item.IconName"></i>
+                            <span>@item.MenuName</span>
+                        </a>
+                    </li>
+                }
+            }
+        }
+    }
+</ul>
+

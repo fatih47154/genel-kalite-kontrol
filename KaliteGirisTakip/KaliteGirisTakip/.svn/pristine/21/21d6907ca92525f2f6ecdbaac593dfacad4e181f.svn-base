@@ -1,0 +1,54 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using KaliteGiris.IEfDal;
+using KaliteGiris.EfDal;
+using KaliteGiris.Entities;
+
+namespace KaliteGiris.Bll
+{
+    public class LabTalepManager :  ILabTalepEf
+    {
+        ILabTalepEf LabTalepEf { get; set; }
+
+        public LabTalepManager()
+        {
+            LabTalepEf = new LabTalepEf();
+        }
+        public List<LabTalep> LabTalepListele()
+        {
+            return LabTalepEf.LabTalepListele();
+        }
+
+        public int LabTalepEkle(LabTalep LabTalep)
+        {
+            int sonuc = 0;
+            sonuc = LabTalepEf.LabTalepEkle(LabTalep);
+
+            return sonuc;
+        }       
+
+        public int LabTalepGuncelle(LabTalep LabTalep)
+        {
+            int sonuc = LabTalepEf.LabTalepGuncelle(LabTalep);
+            return sonuc;
+        }
+
+        public int LabTalepBul(LabTalep LabTalepId)
+        {
+            return LabTalepEf.LabTalepBul(LabTalepId);
+        }
+
+        //List<LabTalep> ILabTalepEf.LabTalepListele()
+        //{
+        //    throw new NotImplementedException();
+        //}
+
+        /*public int KullaniciKontrol(personel personel)
+        {
+            return PersonelEf.KullaniciKontrol(personel);
+        }*/
+    }
+}

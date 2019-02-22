@@ -1,0 +1,229 @@
+﻿
+@{
+    ViewBag.Title = "kayitDuzenle";
+    Layout = "~/Views/shared/_MainLayout.cshtml";
+}
+
+@using KaliteGiris.Entities.Enums
+@section head{
+        <link href="/Content/css/bootstrap-datetimepicker.min.css" rel="stylesheet" media="screen">
+    }
+ <div class="col-lg-12">
+     <section class="panel">
+         <div class="col-lg-12">
+             <header class="panel-heading">
+                     <b>Kayıt Düzenle</b>
+                     <br />
+                     <div style="background-color:black;height:1px;"></div>
+             </header>
+         </div>
+         <div class="panel-body">
+             <form action="../KayitDuzenle/kayitDuzenle" method="post">
+                 <div class="row">
+                     <div class="col-lg-12">
+                         <div class="col-lg-6"> 
+                                 <div class="form-group">
+                                         <label>Tarih</label>
+                                         <div class="input-group date form_datetime" data-date="2000-09-16T05:25:07Z" data-date-format="dd MM yyyy - HH:ii p" data-link-field="dtp_input1">
+                                             <input class="form-control" size="16" type="text" value="" readonly>
+                                             <span class="input-group-addon"><span class="glyphicon glyphicon-remove"></span></span>
+                                             <span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span>
+                                         </div>                                   
+                                     </div>
+                                 <div class="form-group">
+                                         <label>Sıra Numarası</label>
+                                         <input value="@ViewBag.veri.Sira" class="form-control" disabled>
+                                         <input hidden value="@ViewBag.veri.Sira" name="Sira"/>   
+                                     </div>
+                                 <div class="form-group">
+                                         <label>Sözleşme Numarası</label>
+                                         <input name="SozlesmeNo" value="@ViewBag.veri.SozlesmeNo" class="form-control">
+                                     </div>
+                                 <div class="form-group">
+                                         <label>Malzeme</label>
+                                         <input name="Malzeme" value="@ViewBag.veri.SozlesmeNo" class="form-control">
+                                     </div>
+                                 <div class="form-group">
+                                         <label>GKK Sorumlusu</label>
+                                         <select class="form-control m-bot15" name="PersonelID">
+                                             @foreach (var item in ViewBag.personel)
+                                             {
+                                                 if (ViewBag.veri.PersonelId == item.PersonelId)
+                                                 {
+                                                     <option value="@item.PersonelId" selected>@item.Adi &nbsp; @item.Soyadi</option>
+                                                 }
+                                                 else
+                                                 {
+                                                     <option value="@item.PersonelId">@item.Adi &nbsp; @item.Soyadi</option>
+                                                 }
+                                             }
+                                         </select>
+                                     </div>
+                                 <div class="form-group">
+                                         <label>Laboratuvar Sonucu</label>
+                                         <select class="form-control m-bot15" name="SonucDurumId">
+                                             @foreach (var item in ViewBag.durum)
+                                             {
+                                                 if (item.DurumTipiId == LabEnum.LabSonuc)
+                                                 {
+                                                     if (ViewBag.veri.SonucDurumId == item.DurumId)
+                                                     {
+                                                         <option value="@item.DurumId" selected>@item.DurumAdi</option>
+                                                     }
+                                                     else
+                                                     {
+                                                         <option value="@item.DurumId">@item.DurumAdi</option>
+                                                     }
+                                                 }
+                                             }
+                                         </select>
+                                     </div>
+                             <input hidden name="LabTalepId" value="@ViewBag.veri.LabTalepId" />
+                         </div>
+                         <div class="col-lg-6">
+                                 <div class="form-group">
+                                         <label>Rapor Tarihi</label>
+                                         <div class="input-group date form_datetime1" data-date="2000-09-16T05:25:07Z" data-date-format="dd MM yyyy - HH:ii p" data-link-field="dtp_input1">
+                                             <input class="form-control" size="16" type="text" value="" readonly>
+                                             <span class="input-group-addon"><span class="glyphicon glyphicon-remove"></span></span>
+                                             <span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span>
+                                         </div>  
+                                     </div>
+                                 <div class="form-group">
+                                         <label>Firma Adı</label>
+                                         <select class="form-control m-bot15" name="FirmaId">
+                                             @foreach (var item in ViewBag.firma)
+                                             {
+                                                 if (ViewBag.veri.FirmaId == item.FirmaId)
+                                                 {
+                                                     <option value="@item.FirmaId" selected>@item.FirmaAdi</option>
+                                                 }
+                                                 else
+                                                 {
+                                                     <option value="@item.FirmaId">@item.FirmaAdi</option>
+                                                 }
+                                             }
+                                         </select>
+                                     </div>
+                                 <div class="form-group">
+                                         <label>Alım Tipi</label>
+                                         <select class="form-control m-bot15" name="AlimTipi">
+                                             @foreach (var item in ViewBag.alimTipi)
+                                             {
+                                                 <option>Alım Tipi Seçiniz</option>
+                                                 if (ViewBag.veri.AlimTipi == item.AlimTipiAdi)
+                                                 {
+                                                     <option value="@item.AlimTipiAdi" selected>@item.AlimTipiAdi</option>
+                                                 }
+                                                 else
+                                                 {
+                                                     <option value="@item.AlimTipiAdi">@item.AlimTipiAdi</option>
+                                                 }
+                                             }
+                                         </select>
+                                     </div>
+                                 <div class="form-group">
+                                         <label>İrsaliye Numarası</label>
+                                         <input type="text" name="IrsaliyeNo" value="@ViewBag.veri.IrsaliyeNo" class="form-control">
+                                     </div>
+                                 <div class="form-group">
+                                         <label>Laboratuvar Durumu</label>
+                                         <select class="form-control m-bot15" name="DurumId">
+                                             @foreach (var item in ViewBag.durum)
+                                             {
+                                                 if (item.DurumTipiId == LabEnum.LabDurum)
+                                                 {
+                                                     if (ViewBag.veri.DurumId == item.DurumId)
+                                                     {
+                                                         <option value="@item.DurumId" selected>@item.DurumAdi</option>
+                                                     }
+                                                     else
+                                                     {
+                                                         <option value="@item.DurumId">@item.DurumAdi</option>
+                                                     }
+                                                 }
+                                             }
+                                         </select>
+                                     </div>
+                                 <div class="form-group">
+                                         <label>GKK Sonuc</label>
+                                         <select class="form-control m-bot15" name="GKKSonucId">
+                                             @foreach (var item in ViewBag.durum)
+                                             {
+                                                 if (item.DurumTipiId == LabEnum.LabSonuc)
+                                                 {
+                                                     if (ViewBag.veri.GKKSonucId == item.DurumId)
+                                                     {
+                                                         <option value="@item.DurumId" selected>@item.DurumAdi</option>
+                                                     }
+                                                     else
+                                                     {
+                                                         <option value="@item.DurumId">@item.DurumAdi</option>
+                                                     }
+                                                 }
+                                             }
+                                         </select>
+                                     </div>
+                         </div>
+                     </div>
+                 </div>
+                 <div class="row">
+                     <div class="col-lg-12">
+                         <div class="col-lg-12">
+                             <div class="row">
+                                 <div class="col-lg-12"></div>
+                             </div>
+                             <div class="row">
+                                 <div class="col-lg-12">
+                                     <div class="form-group">
+                                         <label>Açıklama</label>
+                                         <input type="text" value="@ViewBag.veri.Aciklama" class="form-control" name="Aciklama">
+                                     </div>
+                                     <br />
+                                     <button type="submit" class="btn btn-info">Güncelle</button>
+                                     <a href="/../KayıtListele/kayitListele" class="btn btn-danger">İptal</a>
+                                     <button type="reset" class="btn btn-default">Geri Al</button>
+                                 </div>
+                             </div>
+                         </div>
+                     </div>
+                 </div>
+                 
+
+             </form>
+         </div>
+     </section> 
+</div>
+
+@section script{
+<script type="text/javascript" src="/Content/js/bootstrap-datetimepicker.js" charset="UTF-8"></script>
+<script src="/Content/js/bootstrap-datetimepicker.tr.js"></script>
+<script type="text/javascript">
+    $('.form_datetime').datetimepicker({
+        language:  'tr',
+        format: 'yyyy-mm-dd hh:ii',
+        weekStart: 1,
+        todayBtn:  1,
+		autoclose: 1,
+		todayHighlight: 1,
+		startView: 2,
+		forceParse: 0,
+        showMeridian: 1
+    });
+
+    $('.form_datetime1').datetimepicker({
+        language:  'tr',
+        format: 'yyyy-mm-dd hh:ii',
+        weekStart: 1,
+        todayBtn: 1,
+        autoclose: 1,
+        todayHighlight: 1,
+        startView: 2,
+        forceParse: 0,
+        showMeridian: 1
+    });
+</script>
+}
+
+
+

@@ -1,0 +1,98 @@
+﻿using Lab.Entities;
+using KaliteGiris.IEfDal;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+
+namespace KaliteGiris.EFDAL
+{
+    public partial class LabTalepEf : ILabTalepEf
+    {
+       LabTalep LabTalep { get; set; }
+
+
+        public int LabTalepEkle(LabTalep LabTalep)
+        {
+            LabDataModel dataModel = new LabDataModel();
+
+            dataModel.LabTalep.Add(LabTalep);
+            int sonuc = dataModel.SaveChanges();
+
+            return sonuc;
+        }
+
+        public int LabTalepGuncelle(LabTalep LabTalep)
+        {
+            int sonuc = 0;
+            Guid id = LabTalep.LabTalepId;
+            
+
+            try
+            {
+                LabDataModel dataModel = new LabDataModel();
+                LabTalep Laptalep = dataModel.LabTalep.Find(id);
+
+                if (LabTalep!= null)
+                {
+                    dataModel.Entry(LabTalep).CurrentValues.SetValues(LabTalep);
+                    sonuc = dataModel.SaveChanges();
+                }
+
+            }
+            catch (Exception ex)
+            {
+                //  Log4NetLibrary.HataDataBaseLog.LogStart.Error(Log4NetLibrary.GetMethodProperties.GetMethodFullName(), ex);
+            }
+
+            return sonuc;
+        }
+
+        public List<LabTalep> LabTalepListele()
+        {
+            List<LabTalep> LabTalepList = new List<LabTalep>();
+
+
+            try
+            {
+
+                LabDataModel dataModel = new LabDataModel();
+
+
+                LabTalepList = dataModel.LabTalep.ToList();
+                var result = LabTalepList.Where(e => e.Sira == 1).ToList();
+                LabTalepList = result;
+
+            }
+            catch (Exception ex)
+            {
+                //Log4NetLibrary.HataDataBaseLog.LogStart.Error(Log4NetLibrary.GetMethodProperties.GetMethodFullName(), ex);
+            }
+            return LabTalepList;
+        }
+
+        public LabTalep LabTalepBul(Guid LabTalepID)
+        {
+           
+            try
+            {
+
+                LabDataModel dataModel = new LabDataModel();
+                LabTalep = dataModel.LabTalep.Find(LabTalepID);
+            }
+            catch (Exception ex)
+            {
+
+                //Log4NetLibrary.HataDataBaseLog.LogStart.Error(Log4NetLibrary.GetMethodProperties.GetMethodFullName(), ex);
+            }
+            return LabTalep;
+        }
+
+        public int LabTalepBul(LabTalep LabTalep)
+        {
+            throw new NotImplementedException();
+        }
+    }
+}

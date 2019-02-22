@@ -1,0 +1,181 @@
+﻿@model IEnumerable<LabTalep>
+@{
+
+    ViewBag.Title = "kayitListele";
+    Layout = "~/Views/shared/_MainLayout.cshtml";
+}
+@using KaliteGiris.Entities;
+@using KaliteGiris.Entities.Enums;
+
+
+@section head{
+    <link rel="stylesheet" href="/Content/assets/data-tables/DT_bootstrap.css" />
+    <style type="text/css">
+        tbody,thead{
+            width: 19.2%;
+        }
+        tbody,thead{ font-size : 12px;}
+        #back{
+            background-color : #EECBC4;
+        }
+    </style>
+}
+<div class="row">
+    <div class="col-lg-12">
+        <section class="panel">
+            <header class="panel-heading">
+                <b>Laboratuvar Kayıt Listesi</b>
+                <br />
+                <div style="background-color:black;height:1px;"></div>
+            </header>
+            
+            <div class="panel-body">
+                @{
+                    if (TempData["a"] != null)
+                    {
+                        if (TempData["b"] != null)
+                        {
+                            <div class="alert alert-success alert-dismissable">
+                                <button type="button" class="close" data-dismiss="alert">&times;</button>
+                                <strong>@TempData["a"]</strong>
+                            </div>
+                        }
+                        else if (TempData["c"] != null)
+                        {
+                            <div class="alert alert-danger alert-dismissible">
+                                <button type="button" class="close" data-dismiss="alert">&times;</button>
+                                <strong>@TempData["a"]</strong>
+                            </div>
+                        }
+                    }
+                }
+                <div class="adv-table editable-table">
+                    <table class="table table-striped table-hover table-bordered" id="editable-sample">
+                        <thead>
+                            <tr>
+                                <th>Tarih</th>
+                                <th>Sıra</th>
+                                <th>Rapor Tarihi</th>
+                                <th>Firma</th>
+                                <th>Sözleşme No</th>
+                                <th>Alım Tipi</th>
+                                <th>Malzeme</th>
+                                <th>İrsaliye No</th>
+                                <th>Personel</th>
+                                <th>Lab Durumu</th>
+                                <th>Lab Sonucu</th>
+                                <th>GKK Sonucu</th>
+                                <th>Açıklama</th>
+                                <th>Düzenle</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in  Model)
+                            {
+                                if (item.GKKSonucDurum.DurumAdi == "RET" && item.SonucDurum.DurumAdi == "RET")
+                                {
+                            <tr>
+                                <td class="filterable-cell" id="back">@item.Tarih</td>
+                                <td class="filterable-cell" id="back">@item.Sira</td>
+                                <td class="filterable-cell" id="back">@item.RaporTarihi</td>
+                                <td class="filterable-cell" id="back">@item.Firma.FirmaAdi</td>
+                                <td class="filterable-cell" id="back">@item.SozlesmeNo</td>
+                                @if (item.AlimTipiId != null)
+                                    {
+                                        <td class="filterable-cell" id="back">@item.AlimTipi.AlimTipiAdi</td>
+                                    }
+                                    else
+                                    {
+                                        <td class="filterable-cell" id="back">Girilmedi</td>
+                                    }
+                                <td class="filterable-cell" id="back">@item.Malzeme</td>
+                                <td class="filterable-cell" id="back">@item.IrsaliyeNo</td>
+                                <td class="filterable-cell" id="back">@item.Personel.Adi<span> </span>@item.Personel.Soyadi</td>
+
+                                <td class="filterable-cell" id="back">@item.Durum.DurumAdi</td>
+                                <td class="filterable-cell" id="back">@item.SonucDurum.DurumAdi</td>
+                                <td class="filterable-cell" id="back">@item.GKKSonucDurum.DurumAdi</td>
+                                @if (item.Aciklama != "")
+                                    {
+                                        <td class="filterable-cell" id="back">@item.Aciklama</td>
+                                    }
+                                    else
+                                    {
+                                        <td class="filterable-cell" id="back">Girilmedi</td>
+                                    }
+                                <td class="filterable-cell" id="back" style="width:25px;">
+                                    <a href="../KayitDuzenle/kayitDuzenle/@item.LabTalepId" class="btn btn-primary btn-xs"><i class="icon-pencil"></i></a>
+                                    <a href="../KayitSil/kayitSil/@item.LabTalepId" class="btn btn-danger btn-xs"><i class="icon-trash"></i></a>
+                                </td>
+                            </tr>
+                                }
+                                else
+                                {
+                            <tr>
+                                <td class="filterable-cell">@item.Tarih</td>
+                                <td class="filterable-cell">@item.Sira</td>
+                                <td class="filterable-cell">@item.RaporTarihi</td>
+                                <td class="filterable-cell">@item.Firma.FirmaAdi</td>
+                                <td class="filterable-cell">@item.SozlesmeNo</td>
+                                <td class="filterable-cell">@item.AlimTipi.AlimTipiAdi</td>
+                                <td class="filterable-cell">@item.Malzeme</td>
+                                <td class="filterable-cell">@item.IrsaliyeNo</td>
+                                <td class="filterable-cell">@item.Personel.Adi<span> </span>@item.Personel.Soyadi</td>
+                                <td class="filterable-cell">@item.Durum.DurumAdi</td>
+                                <td class="filterable-cell">@item.SonucDurum.DurumAdi</td>
+                                <td class="filterable-cell">@item.GKKSonucDurum.DurumAdi</td>
+                                @if (item.Aciklama != "")
+                                        {
+                                        <td class="filterable-cell">@item.Aciklama</td>
+                                        }
+                                        else
+                                        {
+                                        <td class="filterable-cell">Girilmedi</td>
+                                        }
+                                <td class="filterable-cell" style="width:25px;">
+                                    <a href="../KayitDuzenle/kayitDuzenle/@item.LabTalepId" class="btn btn-primary btn-xs"><i class="icon-pencil"></i></a>
+                                    <a href="../KayitSil/kayitSil/@item.LabTalepId" class="btn btn-danger btn-xs"><i class="icon-trash"></i></a>
+                                </td>
+                            </tr>
+                                }
+
+
+                            }
+                        </tbody>
+                    </table>
+                    @{
+                        <div class="row">
+                            <div class="col-lg-12">
+                                @if (TempData["Tümünü Göster"] != null)
+                                {
+                                <a href="../../KayıtListele/kayitListele" class="btn btn-info">Tümünü Göster</a>
+                                }
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+        </section>
+    </div>
+</div>
+@section script{
+<script type="text/javascript" src="/Content/assets/data-tables/jquery.dataTables.js"></script>
+<script type="text/javascript" src="/Content/assets/data-tables/DT_bootstrap.js"></script>
+
+<!--common script for all pages-->
+
+<!--script for this page only-->
+<script src="/Content/js/editable-table.js"></script>
+<!-- END JAVASCRIPTS -->
+<script>
+          jQuery(document).ready(function() {
+              EditableTable.init();
+              
+          });
+</script>
+    <script>
+    window.onload = function()
+    {
+        $('#listele').addClass('active');
+    }</script>
+}

@@ -1,0 +1,62 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.Mvc;
+using KaliteGiris.Bll;
+using KaliteGiris.Entities;
+using KaliteGiris.EfDal;
+
+namespace KaliteGiris.Web.Controllers
+{
+    public class KayitDuzenleController : Controller
+    {
+        LabDataModel db = new LabDataModel();
+
+        public LabTalepManager LabTalepManager { get; set; }
+        public KayitDuzenle KayitDuzenle { get; set; }
+        // GET: KayitDuzenle
+        public ActionResult kayitDuzenle(Guid id)
+        {
+            
+            var veri = db.LabTalep.FirstOrDefault(x => x.LabTalepId == id);
+            var firma = db.Firma.ToList();
+            var alimTipi = db.AlimTipi.ToList();
+            var durum = db.Durum.ToList();
+            var personel = db.Personel.ToList();
+            ViewBag.personel = personel;
+            ViewBag.durum = durum;
+            ViewBag.alimTipi = alimTipi;
+            ViewBag.firma = firma;
+            ViewBag.veri = veri;
+            return View();
+        }
+
+        [HttpPost]
+        public ActionResult kayitDuzenle(LabTalep veri)
+        {
+            string date = DateTime.Now.ToString();
+            string mesaj;
+            if(veri.AlimTipi == "Alım Tipi Seçiniz")
+            {
+                veri.AlimTipi = "Girilmedi";
+            }
+            veri.Tarih = Convert.ToDateTime(date);
+            veri.RaporTarihi = Convert.ToDateTime(date);
+            KayitDuzenle = new KayitDuzenle();
+            int sonuc = KayitDuzenle.kayitDuzenle(veri); 
+            if(sonuc == 1)
+            {
+                mesaj = veri.SozlesmeNo + " Sözleşme Numaralı Talep Bilgisi Kaydedildi.";
+            }
+            else
+            {
+                mesaj = veri.SozlesmeNo + " Sözleşme Numaralı Talep Bilgisi Kaydedilirken Hata Oluştu.";
+            }
+            TempData["a"] = mesaj;
+            return RedirectToAction("kayitListele", "KayıtListele");
+        }
+
+
+    }
+}

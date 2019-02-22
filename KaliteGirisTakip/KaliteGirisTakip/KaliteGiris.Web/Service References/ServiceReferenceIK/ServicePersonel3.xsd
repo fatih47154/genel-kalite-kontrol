@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/IK.Entities" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/IK.Entities" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ArrayOfPersonelDepartman">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="PersonelDepartman" nillable="true" type="tns:PersonelDepartman" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfPersonelDepartman" nillable="true" type="tns:ArrayOfPersonelDepartman" />
+  <xs:complexType name="PersonelDepartman">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="CreationDate" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="DepartmanAdi" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="DepartmanKodu" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="DepartmanParentId" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ModificationDate" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="PersonelDepartmanId" type="xs:int" />
+      <xs:element minOccurs="0" name="SistemId" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="PersonelDepartman" nillable="true" type="tns:PersonelDepartman" />
+  <xs:complexType name="ArrayOfPersonelUnvan">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="PersonelUnvan" nillable="true" type="tns:PersonelUnvan" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfPersonelUnvan" nillable="true" type="tns:ArrayOfPersonelUnvan" />
+  <xs:complexType name="PersonelUnvan">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="PersonelUnvanId" type="xs:int" />
+      <xs:element minOccurs="0" name="SiraNo" type="xs:int" />
+      <xs:element minOccurs="0" name="UnvanAciklama" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="PersonelUnvan" nillable="true" type="tns:PersonelUnvan" />
+  <xs:complexType name="ArrayOfPersonelSube">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="PersonelSube" nillable="true" type="tns:PersonelSube" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfPersonelSube" nillable="true" type="tns:ArrayOfPersonelSube" />
+  <xs:complexType name="PersonelSube">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="PersonelSubeId" type="xs:int" />
+      <xs:element minOccurs="0" name="SubeAdi" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="SubeKodu" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="PersonelSube" nillable="true" type="tns:PersonelSube" />
+</xs:schema>

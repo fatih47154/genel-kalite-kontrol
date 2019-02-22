@@ -1,0 +1,40 @@
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.IEfDal\bin\Debug\Firma.cs
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.IEfDal\bin\Debug\LabTalep.cs
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.IEfDal\bin\Debug\Personel.cs
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.IEfDal\bin\Debug\KaliteGiris.IEfDal.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.IEfDal\bin\Debug\KaliteGiris.IEfDal.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.IEfDal\bin\Debug\KaliteGiris.Entities.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.IEfDal\bin\Debug\KaliteGiris.Entities.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.IEfDal\obj\Debug\KaliteGiris.IEfDal.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.IEfDal\obj\Debug\KaliteGiris.IEfDal.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.IEfDal\obj\Debug\KaliteGiris.IEfDal.pdb
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.IEfDal\bin\Debug\Firma.cs
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.IEfDal\bin\Debug\LabTalep.cs
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.IEfDal\bin\Debug\Personel.cs
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.IEfDal\bin\Debug\KaliteGiris.IEfDal.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.IEfDal\bin\Debug\KaliteGiris.IEfDal.pdb
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.IEfDal\bin\Debug\KaliteGiris.Entities.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.IEfDal\bin\Debug\KaliteGiris.Entities.pdb
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.IEfDal\obj\Debug\KaliteGiris.IEfDal.csprojResolveAssemblyReference.cache
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.IEfDal\obj\Debug\KaliteGiris.IEfDal.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.IEfDal\obj\Debug\KaliteGiris.IEfDal.pdb
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.IEfDal\bin\Debug\Firma.cs
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.IEfDal\bin\Debug\LabTalep.cs
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.IEfDal\bin\Debug\Personel.cs
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.IEfDal\bin\Debug\KaliteGiris.IEfDal.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.IEfDal\bin\Debug\KaliteGiris.IEfDal.pdb
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.IEfDal\bin\Debug\KaliteGiris.Entities.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.IEfDal\bin\Debug\KaliteGiris.Entities.pdb
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.IEfDal\obj\Debug\KaliteGiris.IEfDal.csprojResolveAssemblyReference.cache
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.IEfDal\obj\Debug\KaliteGiris.IEfDal.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.IEfDal\obj\Debug\KaliteGiris.IEfDal.pdb
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.IEfDal\bin\Debug\Firma.cs
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.IEfDal\bin\Debug\LabTalep.cs
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.IEfDal\bin\Debug\Personel.cs
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.IEfDal\bin\Debug\KaliteGiris.IEfDal.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.IEfDal\bin\Debug\KaliteGiris.IEfDal.pdb
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.IEfDal\bin\Debug\KaliteGiris.Entities.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.IEfDal\bin\Debug\KaliteGiris.Entities.pdb
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.IEfDal\obj\Debug\KaliteGiris.IEfDal.csprojResolveAssemblyReference.cache
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.IEfDal\obj\Debug\KaliteGiris.IEfDal.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.IEfDal\obj\Debug\KaliteGiris.IEfDal.pdb

@@ -1,0 +1,81 @@
+﻿using KaliteGiris.IEfDal;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using KaliteGiris.Entities;
+using KaliteGiris.EfDal;
+using KaliteGiris.Bll.Abstracts;
+using MailSending;
+
+namespace KaliteGiris.Bll
+{
+    public class PersonelManager : IPersonelEf,IMail
+    {
+        IPersonelEf PersonelEf { get; set; }
+
+        public PersonelManager()
+        {
+            PersonelEf = new PersonelEf();
+        }
+        public int PersonelEkle(Personel Personel)
+        {
+            int sonuc = 0;
+            sonuc = PersonelEf.PersonelEkle(Personel);
+
+            return sonuc;
+        }
+
+        public int PersonelGuncelle(Personel Personel)
+        {
+            int sonuc = 0;
+            sonuc = PersonelEf.PersonelGuncelle(Personel);
+
+            return sonuc;
+        }
+
+        public List<Personel> PersonelListele()
+        {
+            return PersonelEf.PersonelListele();
+        }
+        public int PersonelSil(Personel  personel)
+        {
+            int sonuc = 0;
+            sonuc = PersonelEf.PersonelSil(personel);
+
+            return sonuc;
+        }
+
+        public bool MailGonder(Personel personel)
+        {
+            bool status = false;
+
+            SifreLinkMesaj sifreLinki = new SifreLinkMesaj();
+
+            List<string> adres = new List<string>();
+            adres.Add(personel.Email);
+
+
+            sifreLinki.SifreLinkGovdesi(personel);
+
+            MailEntity mailEntity = new MailEntity();
+            mailEntity.Subject = "Şifre Yenileme"; // Mail gönderilen yerde doldurulacak
+            mailEntity.Port = 25;
+            mailEntity.Body = sifreLinki.SifreLinkGovdesi(personel); //MailEntity Gönderilen yerde dldurulacak //Mesaj.HtmlTabloIcerigiOlustur("Teknik Servis Yazilim Aktivasyon", 780, MesajGovdesi(kurum));
+            mailEntity.EnableSSl = false;
+            mailEntity.Host = "193.1.1.10";
+            mailEntity.HostMailAdres = "ebim@tuvasas.com.tr";
+            mailEntity.IsBodyHtml = true;
+            mailEntity.NameAppear = "BİLGİ İŞLEM DAİRE BAŞKANLIĞI";
+            mailEntity.Password = "ebim392";
+            mailEntity.UserName = "ebim@tuvasas.com.tr";
+            mailEntity.AdresList = adres;
+
+            MailSend mailSend = new MailSend(mailEntity);
+            status = mailSend.MailGonder();
+
+            return status;
+        }
+    }
+}

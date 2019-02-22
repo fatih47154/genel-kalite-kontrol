@@ -1,0 +1,108 @@
+namespace KaliteGiris.EfDal.Migrations
+{
+    using System;
+    using System.Data.Entity.Migrations;
+    
+    public partial class initial : DbMigration
+    {
+        public override void Up()
+        {
+            CreateTable(
+                "dbo.Durum",
+                c => new
+                    {
+                        DurumId = c.Guid(nullable: false, identity: true),
+                        DurumAdi = c.String(maxLength: 100),
+                        DurumTipiId = c.Guid(nullable: false),
+                    })
+                .PrimaryKey(t => t.DurumId)
+                .ForeignKey("dbo.DurumTipis", t => t.DurumTipiId, cascadeDelete: true)
+                .Index(t => t.DurumTipiId);
+            
+            CreateTable(
+                "dbo.DurumTipis",
+                c => new
+                    {
+                        DurumTipiId = c.Guid(nullable: false, identity: true),
+                        DurumTip = c.String(maxLength: 100),
+                    })
+                .PrimaryKey(t => t.DurumTipiId);
+            
+            CreateTable(
+                "dbo.Firma",
+                c => new
+                    {
+                        FirmaId = c.Guid(nullable: false, identity: true),
+                        FirmaAdi = c.String(maxLength: 100),
+                        Durum = c.Boolean(nullable: false),
+                    })
+                .PrimaryKey(t => t.FirmaId);
+            
+            CreateTable(
+                "dbo.LabTalep",
+                c => new
+                    {
+                        LabTalepId = c.Guid(nullable: false, identity: true),
+                        Sira = c.Int(nullable: false),
+                        Tarih = c.DateTime(nullable: false),
+                        RaporTarihi = c.DateTime(nullable: false),
+                        FirmaId = c.Guid(nullable: false),
+                        SozlesmeNo = c.String(),
+                        AlimTipi = c.String(),
+                        Malzeme = c.String(),
+                        IrsaliyeNo = c.String(),
+                        PersonelId = c.Guid(nullable: false),
+                        DurumId = c.Guid(nullable: false),
+                        SonucDurumId = c.Guid(nullable: false),
+                        GKKSonucId = c.Guid(nullable: false),
+                        Aciklama = c.String(),
+                    })
+                .PrimaryKey(t => t.LabTalepId)
+                .ForeignKey("dbo.Durum", t => t.DurumId, cascadeDelete: true)
+                .ForeignKey("dbo.Firma", t => t.FirmaId, cascadeDelete: true)
+                .ForeignKey("dbo.Personel", t => t.PersonelId, cascadeDelete: true)
+                .ForeignKey("dbo.Durum", t => t.SonucDurumId)
+                .Index(t => t.FirmaId)
+                .Index(t => t.PersonelId)
+                .Index(t => t.DurumId)
+                .Index(t => t.SonucDurumId);
+            
+            CreateTable(
+                "dbo.Personel",
+                c => new
+                    {
+                        PersonelId = c.Guid(nullable: false, identity: true),
+                        PersonelNo = c.Int(nullable: false),
+                        SicilNo = c.Int(nullable: false),
+                        Adi = c.String(),
+                        Soyadi = c.String(),
+                        Tc = c.String(maxLength: 11),
+                        Kullanici = c.String(),
+                        Sifre = c.String(),
+                        Email = c.String(),
+                        Durum = c.Boolean(nullable: false),
+                    })
+                .PrimaryKey(t => t.PersonelId);
+            
+        }
+        
+        public override void Down()
+        {
+            DropForeignKey("dbo.LabTalep", "SonucDurumId", "dbo.Durum");
+            DropForeignKey("dbo.LabTalep", "PersonelId", "dbo.Personel");
+            DropForeignKey("dbo.LabTalep", "FirmaId", "dbo.Firma");
+            DropForeignKey("dbo.LabTalep", "DurumId", "dbo.Durum");
+            DropForeignKey("dbo.Durum", "DurumTipiId", "dbo.DurumTipis");
+            DropIndex("dbo.LabTalep", new[] { "SonucDurumId" });
+            DropIndex("dbo.LabTalep", new[] { "DurumId" });
+            DropIndex("dbo.LabTalep", new[] { "PersonelId" });
+            DropIndex("dbo.LabTalep", new[] { "FirmaId" });
+            DropIndex("dbo.Durum", new[] { "DurumTipiId" });
+            DropTable("dbo.Personel");
+            DropTable("dbo.LabTalep");
+            DropTable("dbo.Firma");
+            DropTable("dbo.DurumTipis");
+            DropTable("dbo.Durum");
+        }
+    }
+}

@@ -1,0 +1,89 @@
+﻿using System;
+using System.Text;
+using System.Collections.Generic;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
+using KaliteGiris.Bll;
+using KaliteGiris.Entities;
+
+namespace KaliteGiris.UITest
+{
+    /// <summary>
+    /// Summary description for FirmaTest
+    /// </summary>
+    [TestClass]
+    public class FirmaTest
+    {
+        public FirmaTest()
+        {
+            //
+            // TODO: Add constructor logic here
+            //
+        }
+        #region Additional test attributes
+        //
+        // You can use the following additional attributes as you write your tests:
+        //
+        // Use ClassInitialize to run code before running the first test in the class
+        // [ClassInitialize()]
+        // public static void MyClassInitialize(TestContext testContext) { }
+        //
+        // Use ClassCleanup to run code after all tests in a class have run
+        // [ClassCleanup()]
+        // public static void MyClassCleanup() { }
+        //
+        // Use TestInitialize to run code before running each test 
+        // [TestInitialize()]
+        // public void MyTestInitialize() { }
+        //
+        // Use TestCleanup to run code after each test has run
+        // [TestCleanup()]
+        // public void MyTestCleanup() { }
+        //
+        #endregion
+
+        [TestMethod]
+        public void TestMethodFirmaList()
+        {
+            FirmaManager bll = new FirmaManager();
+            List<Firma> list = bll.FirmaListele();
+            Assert.AreNotEqual(list.Count, null);
+        }
+        [TestMethod]
+        public void TestMethodFirmaAdd()
+        {
+
+            Firma firma = new Firma();
+
+            firma.FirmaAdi = "X Firması";
+            firma.Durum = true;
+
+            FirmaManager bll = new FirmaManager();
+            int result = bll.FirmaEkle(firma);
+            Assert.AreEqual(result, 1);
+        }
+        [TestMethod]
+        public void TestMethodFirmaUpdate()
+        {
+            Firma firma = new Firma();
+            
+            firma.FirmaAdi = "XX Firması";
+            firma.Durum = true;
+            firma.FirmaId = new Guid("??");
+
+            FirmaManager bll = new FirmaManager();
+            int result = bll.FirmaGuncelle(firma);
+            Assert.AreEqual(result, 1);
+        }
+        [TestMethod]
+        public void TestMethodFirmaDelete()
+        {
+            Firma firma = new Firma();
+
+            firma.FirmaId = new Guid("??");
+
+            FirmaManager bll = new FirmaManager();
+            int result = bll.FirmaSil(firma);
+            Assert.AreEqual(result, 1);
+        }
+    }
+}

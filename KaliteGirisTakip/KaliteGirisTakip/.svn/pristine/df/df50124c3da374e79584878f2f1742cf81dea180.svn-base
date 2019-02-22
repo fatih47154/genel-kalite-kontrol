@@ -1,0 +1,84 @@
+﻿using KaliteGiris.EfDal;
+using KaliteGiris.Entities;
+using KaliteGiris.IEfDal;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace KaliteGiris.EfDal
+{
+    public class PersonelEf : IPersonelEf
+    {
+        public int PersonelEkle(Personel Personel)
+        {
+            int sonuc = 0;
+            try
+            {
+                LabDataModel dataModel = new LabDataModel();
+                dataModel.Personel.Add(Personel);
+                sonuc = dataModel.SaveChanges();
+            }
+            catch (Exception ex)
+            {
+
+
+            }
+            return sonuc;
+        }
+
+        public int PersonelGuncelle(Personel Personel)
+        {
+            int sonuc = 0;
+            //Guid id = Personel.PersonelId;
+            int id = Personel.PersonelNo;
+
+            try
+            {
+                LabDataModel dataModel = new LabDataModel();
+
+
+
+                if (dataModel.Personel.Find(id) != null)
+                {
+
+                    dataModel.Entry(Personel).CurrentValues.SetValues(Personel);
+                    sonuc = dataModel.SaveChanges();
+                }
+            }
+            catch (Exception ex)
+            {
+                //  Log4NetLibrary.HataDataBaseLog.LogStart.Error(Log4NetLibrary.GetMethodProperties.GetMethodFullName(), ex);
+            }
+
+            return sonuc;
+        }
+
+        public List<Personel> PersonelListele()
+        {
+            List<Personel> PersonelList = null;
+
+
+            try
+            {
+
+                LabDataModel dataModel = new LabDataModel();
+
+
+                PersonelList = dataModel.Personel.ToList();
+                var result = PersonelList.Where(e => e.PersonelId != null).ToList();
+                PersonelList = result;
+
+
+
+            }
+            catch (Exception ex)
+            {
+
+                //Log4NetLibrary.HataDataBaseLog.LogStart.Error(Log4NetLibrary.GetMethodProperties.GetMethodFullName(), ex);
+            }
+            return PersonelList;
+        }
+    }
+}

@@ -1,0 +1,172 @@
+﻿
+@{
+    ViewBag.Title = "kayitDuzenle";
+    Layout = "~/Views/shared/_MainLayout.cshtml";
+}
+
+@using KaliteGiris.Entities.Enums
+@section head{
+
+    }
+ <div class="col-lg-12">
+     <section class="panel">
+         <header class="panel-heading">
+             <b>Kayıt Düzenle</b>
+             <br />
+             <div style="background-color:black;height:1px;"></div>
+         </header>
+         <form role="form">
+             <div class="col-lg-6">
+                 <section class="panel">
+                     <div class="panel-body">
+                         <div class="form-group">
+                             <label>Tarih</label>
+                             <input type="email" class="form-control">
+                         </div>
+                         <div class="form-group">
+                             <label>Sıra Numarası</label>
+                             <input type="text" value="@ViewBag.veri.Sira" class="form-control">
+                         </div>
+                         <div class="form-group">
+                             <label>Sözleşme Numarası</label>
+                             <input type="text" value="@ViewBag.veri.SozlesmeNo" class="form-control">
+                         </div>
+                         <div class="form-group">
+                             <label>Malzeme</label>
+                             <input type="text" value="@ViewBag.veri.SozlesmeNo" class="form-control">
+                         </div>    
+                         <div class="form-group">
+                             <label>GKK Sorumlusu</label>
+                             <select class="form-control m-bot15" name="">
+                                 @foreach (var item in ViewBag.personel)
+                                 {
+                                     if (ViewBag.veri.PersonelId == item.PersonelId)
+                                     {
+                                         <option value="@item.PersonelId" selected>@item.Adi &nbsp; @item.Soyadi</option>
+                                     }
+                                     else
+                                     {
+                                         <option value="@item.PersonelId">@item.Adi &nbsp; @item.Soyadi</option>
+                                     }
+                                 }
+                             </select>
+                         </div>   
+                         <div class="form-group">
+                             <label>Laboratuvar Sonucu</label>
+                             <select class="form-control m-bot15" name="">
+                                 @foreach (var item in ViewBag.durum)
+                                 {
+                                     if (item.DurumTipiId == LabEnum.LabSonuc)
+                                     {
+                                         if (ViewBag.veri.SonucDurumId == item.DurumId)
+                                         {
+                                             <option value="@item.DurumId" selected>@item.DurumAdi</option>
+                                         }
+                                         else
+                                         {
+                                             <option value="@item.DurumId">@item.DurumAdi</option>
+                                         }
+                                     }
+                                 }
+                             </select>
+                         </div>                    
+                     </div>
+                     <button type="submit" class="btn btn-info">Kaydet</button>
+                 </section>
+             </div>
+             <div class="col-lg-6">
+                 <section class="panel">
+                     <div class="panel-body">
+                         <div class="form-group">
+                             <label>Rapor Tarihi</label>
+                             <input type="email" class="form-control" id="exampleInputEmail1">
+                         </div>
+                         <div class="form-group">
+                             <label>Firma Adı</label>
+                             <select class="form-control m-bot15" name="">
+                                 @foreach (var item in ViewBag.firma)
+                                 {
+                                     if (ViewBag.veri.FirmaId == item.FirmaId)
+                                     {
+                                        <option value="@item.FirmaId" selected>@item.FirmaAdi</option>
+                                     }
+                                     else
+                                     {
+                                        <option value="@item.FirmaId">@item.FirmaAdi</option>
+                                     }
+                                 }
+                             </select>
+                         </div>
+                         <div class="form-group">
+                             <label>Alım Tipi</label>
+                             <select class="form-control m-bot15" name="">
+                                 @foreach (var item in ViewBag.alimTipi)
+                                 {
+                                     <option>Alım Tipi Seçiniz</option>
+                                     if (ViewBag.veri.AlimTipi == item.AlimTipiAdi)
+                                     {
+                                         <option value="@item.AlimTipiAdi" selected>@item.AlimTipiAdi</option>
+                                     }
+                                     else
+                                     {
+                                         <option value="@item.AlimTipiAdi">@item.AlimTipiAdi</option>
+                                     }
+                                 }
+                             </select>
+                         </div>
+                         <div class="form-group">
+                             <label>İrsaliye Numarası</label>
+                             <input type="text" value="@ViewBag.veri.IrsaliyeNo" class="form-control">
+                         </div>
+                         <div class="form-group">
+                             <label>Laboratuvar Durumu</label>
+                             <select class="form-control m-bot15" name="">
+                                 @foreach (var item in ViewBag.durum)
+                                 {
+                                     if (item.DurumTipiId == LabEnum.LabDurum)
+                                     {
+                                         if (ViewBag.veri.DurumId == item.DurumId)
+                                         {
+                                        <option value="@item.DurumId" selected>@item.DurumAdi</option>
+                                         }
+                                         else
+                                         {
+                                        <option value="@item.DurumId">@item.DurumAdi</option>
+                                         }
+                                     }
+                                 }
+                             </select>
+                         </div>
+                         <div class="form-group">
+                             <label>GKK Sonuc</label>
+                             <select class="form-control m-bot15" name="">
+                                 @foreach (var item in ViewBag.durum)
+                                 {
+                                     if (item.DurumTipiId == LabEnum.LabSonuc)
+                                     {
+                                         if (ViewBag.veri.GKKSonucId == item.DurumId)
+                                         {
+                                            <option value="@item.DurumId" selected>@item.DurumAdi</option>
+                                         }
+                                         else
+                                         {
+                                            <option value="@item.DurumId">@item.DurumAdi</option>
+                                         }
+                                     }
+                                 }
+                             </select>
+                         </div>
+                     </div>
+                 </section>
+             </div>
+
+         </form>
+     </section> 
+</div>
+
+@section script{
+
+    }
+
+
+

@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KaliteGirisProje", "KaliteGirisProje\KaliteGirisProje.csproj", "{664CF304-D72B-467D-8C73-6C06A9B33F5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.Entities", "Lab.Entities\Lab.Entities.csproj", "{4728C6D9-B550-48A8-AABE-F62179BE4667}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KaliteGiris.WinForms", "Lab.WinForms\KaliteGiris.WinForms.csproj", "{EF95D023-720D-43A4-8556-E85BCEB2DA49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KaliteGiris.EfDal", "KaliteGiris.EFDAL\KaliteGiris.EfDal.csproj", "{32799DF5-93FF-4454-9878-1F97A6EE470D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KaliteGiris.IEfDal", "KaliteGiris.IEfDal\KaliteGiris.IEfDal.csproj", "{5ACCF1E0-0738-4971-A959-40F2E13094E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KaliteGiris.Bll", "KaliteGiris.Bll\KaliteGiris.Bll.csproj", "{EE7B6662-1691-44CD-9919-DCBC67869001}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{664CF304-D72B-467D-8C73-6C06A9B33F5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{664CF304-D72B-467D-8C73-6C06A9B33F5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{664CF304-D72B-467D-8C73-6C06A9B33F5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{664CF304-D72B-467D-8C73-6C06A9B33F5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4728C6D9-B550-48A8-AABE-F62179BE4667}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4728C6D9-B550-48A8-AABE-F62179BE4667}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4728C6D9-B550-48A8-AABE-F62179BE4667}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4728C6D9-B550-48A8-AABE-F62179BE4667}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF95D023-720D-43A4-8556-E85BCEB2DA49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF95D023-720D-43A4-8556-E85BCEB2DA49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF95D023-720D-43A4-8556-E85BCEB2DA49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF95D023-720D-43A4-8556-E85BCEB2DA49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32799DF5-93FF-4454-9878-1F97A6EE470D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32799DF5-93FF-4454-9878-1F97A6EE470D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32799DF5-93FF-4454-9878-1F97A6EE470D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32799DF5-93FF-4454-9878-1F97A6EE470D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ACCF1E0-0738-4971-A959-40F2E13094E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ACCF1E0-0738-4971-A959-40F2E13094E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ACCF1E0-0738-4971-A959-40F2E13094E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ACCF1E0-0738-4971-A959-40F2E13094E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE7B6662-1691-44CD-9919-DCBC67869001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE7B6662-1691-44CD-9919-DCBC67869001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE7B6662-1691-44CD-9919-DCBC67869001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE7B6662-1691-44CD-9919-DCBC67869001}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+	EndGlobalSection
+EndGlobal

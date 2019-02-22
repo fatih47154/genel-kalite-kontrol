@@ -1,0 +1,35 @@
+﻿using System;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
+using KaliteGiris.Bll;
+using System.Collections.Generic;
+using KaliteGiris.Entities;
+
+namespace KaliteGiris.UITest
+{
+    [TestClass]
+    public class LabTalepTest
+    {
+        //list
+        [TestMethod]
+        public void TestMethodLabList()
+        {
+            LabTalepManager bll = new LabTalepManager();
+            List<LabTalep> list = bll.LabTalepListele();
+            Assert.AreNotEqual(list.Count, 0);
+        }
+        //add
+        public void TestMethodLabAdd()
+        {
+            LabTalep talep = new LabTalep()
+            {
+                AlimTipi = "test",
+                Aciklama = "test"
+            };
+            LabTalepManager bll = new LabTalepManager();
+            int result = bll.LabTalepEkle(talep);
+            Assert.AreEqual(result, 1);
+        }
+
+
+    }
+}

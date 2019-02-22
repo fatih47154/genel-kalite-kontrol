@@ -1,0 +1,257 @@
+﻿
+@{
+    ViewBag.Title = "yeniKayit";
+    Layout = "~/Views/shared/_MainLayout.cshtml";
+}
+@section head{
+    <link href="/Content/css/bootstrap-datetimepicker.min.css" rel="stylesheet" media="screen">
+    }
+
+@using KaliteGiris.Entities.Enums
+
+
+
+<div class="col-lg-12">
+    <section class="panel">
+        <header class="panel-heading">
+            <div class="col-lg-12">
+                <b>Yeni Kayıt Ekle</b>
+                <br />
+                <div style="background-color:black;height:1px;"></div>
+            </div>
+        </header>
+        <div class="panel-body">
+            <form action="../YeniKayit/yeniKayit" method="post">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="col-lg-6">
+                            <div class="form-group">
+                                <label>Tarih</label>&nbsp;<span style="color:red;">*</span>
+                                <div class="input-group date form_datetime" data-date-format="dd MM yyyy - HH:ii p" data-link-field="dtp_input1">
+                                    <input class="form-control" size="16" id="tarih" type="text" name="Tarih" onmouseover="selected()" required>
+                                    <span class="input-group-addon"><span class="glyphicon glyphicon-remove"></span></span>
+                                    <span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label>Sıra Numarası</label>&nbsp;<span style="color:red;">*</span>
+                                <input name="Sira" onmouseover="notSelected()" class="form-control" disabled>
+                            </div>
+                            <div class="form-group">
+                                <label>Sözleşme Numarası</label>&nbsp;<span style="color:red;">*</span>
+                                <input name="SozlesmeNo" onmouseover="notSelected()" class="form-control" required>
+                            </div>
+                            <div class="form-group">
+                                <label>Malzeme</label>&nbsp;<span style="color:red;">*</span>
+                                <input name="Malzeme" class="form-control" required>
+                            </div>
+                            <div class="form-group">
+                                <label>GKK Sorumlusu</label>&nbsp;<span style="color:red;">*</span>
+                                <select onchange="show_selected()" id="gkk" class="form-control m-bot15" name="PersonelID">
+                                    <option value="default">GKK Sorumlusu Seçiniz</option>
+                                    @foreach (var item in ViewBag.personel)
+                                    {
+                                        <option value="@item.PersonelId">@item.Adi &nbsp; @item.Soyadi</option>
+                                    }
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label>Laboratuvar Sonucu</label>&nbsp;<span style="color:red;">*</span>
+                                <select onchange="show_selected()" id="labs"  class="form-control m-bot15" name="SonucDurumId">
+                                    <option value="default">Laboratuvar Sonucunu Seçiniz</option>
+                                    @foreach (var item in ViewBag.durum)
+                                    {
+                                        if (item.DurumTipiId == LabEnum.LabSonuc)
+                                        {
+                                            <option value="@item.DurumId">@item.DurumAdi</option>
+                                        }
+                                    }
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="form-group">
+                                <label>Rapor Tarihi</label>&nbsp;<span style="color:red;">*</span>
+                                <div class="input-group date form_datetime1" data-date-format="dd MM yyyy - HH:ii p" data-link-field="dtp_input1">
+                                    <input class="form-control" size="16" onmouseover="selected1()" name="RaporTarihi" type="text" id="raporTarihi" required>
+                                    <span class="input-group-addon"><span class="glyphicon glyphicon-remove"></span></span>
+                                    <span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label>Firma Adı</label>&nbsp;<span style="color:red;">*</span>
+                                <select onchange="show_selected()" onmouseover="notSelected()" class="form-control m-bot15" name="FirmaId" id="firma" required>
+                                    <option value="default">Firma Seçiniz</option>
+                                    @foreach (var item in ViewBag.firma)
+                            {
+                                        <option value="@item.FirmaId">@item.FirmaAdi</option>
+                            }
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label>Alım Tipi</label>&nbsp;<span style="color:red;">*</span>
+                                <select onchange="show_selected()" class="form-control m-bot15" name="AlimTipiId" id="alimTipi" required>
+                                    <option value="default">Alım Tipi Seçiniz</option>
+                                    @foreach (var item in ViewBag.alimTipi)
+                            {
+                                        <option value="@item.AlimTipiId">@item.AlimTipiAdi</option>
+                            }
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label>İrsaliye Numarası</label>&nbsp;<span style="color:red;">*</span>
+                                <input type="text" class="form-control" name="IrsaliyeNo" required>
+                            </div>
+                            <div class="form-group">
+                                <label>Laboratuvar Durumu</label>&nbsp;<span style="color:red;">*</span>
+                                <select onchange="show_selected()" class="form-control m-bot15" name="DurumId" id="labDurum" required>
+                                    <option value="default">Laboratuvar Durumu Seçiniz</option>
+                                    @foreach (var item in ViewBag.durum)
+                            {
+                                if (item.DurumTipiId == LabEnum.LabDurum)
+                                {
+                                            <option value="@item.DurumId">@item.DurumAdi</option>
+                                }
+                            }
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label>GKK Sonuc</label>&nbsp;<span style="color:red;">*</span>
+                                <select onchange="show_selected()" class="form-control m-bot15" name="GKKSonucId" id="gkkSonuc" required>
+                                    <option value="default">GKK Sonucunu Seçiniz</option>
+                                    @foreach (var item in ViewBag.durum)
+                            {
+                                if (item.DurumTipiId == LabEnum.LabSonuc)
+                                {
+                                            <option value="@item.DurumId">@item.DurumAdi</option>
+                                }
+                            }
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="col-lg-12">
+                            <div class="row">
+                                <div class="col-lg-12"></div>
+                            </div>
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <div class="form-group">
+                                        <label>Açıklama</label>&nbsp;<span style="color:red;">*</span>
+                                        <input type="text" class="form-control" name="Aciklama" required>
+                                    </div>
+                                    <br />
+                                    <button onmouseover="notSelected()" type="submit" id="button" class="btn btn-info">Kaydet</button>
+                                    <a href="../KayıtListele/kayitListele" class="btn btn-danger">İptal</a>
+                                    <button type="reset" class="btn btn-default">Temizle</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </section>
+</div>
+
+@section script{
+    <script type="text/javascript">
+    function show_selected(){
+        "use strict";
+        var selector = document.getElementById('gkk');
+        var valuea = selector[selector.selectedIndex].value;
+
+        var selector1 = document.getElementById('labs');
+        var valueb = selector1[selector1.selectedIndex].value;
+
+        var selector = document.getElementById('firma');
+        var valuec = selector[selector.selectedIndex].value;
+
+        var selector = document.getElementById('alimTipi');
+        var valued = selector[selector.selectedIndex].value;
+
+        var selector = document.getElementById('labDurum');
+        var valuee = selector[selector.selectedIndex].value;
+
+        var selector = document.getElementById('gkkSonuc');
+        var valuef = selector[selector.selectedIndex].value;
+
+        if (valuea == 'default' || valueb == 'default' || valuec == 'default' || valued == 'default' || valuee == 'default' || valuef == 'default') {
+            $('#button').removeClass('btn btn-info');
+            $('#button').addClass('btn btn-info disabled');
+            document.getElementById('button').disabled = true;
+        }
+        else {
+            $('#button').removeClass('btn btn-info disabled');
+            $('#button').addClass('btn btn-info');
+            document.getElementById('button').disabled = false;
+        }
+    };
+    window.onload = show_selected();
+    </script>
+
+    <script>
+    window.onload = function()
+    {
+        $('#yeniKayit').addClass('active');
+    }</script>
+
+<script type="text/javascript" src="/Content/js/bootstrap-datetimepicker.js" charset="UTF-8"></script>
+<script src="/Content/js/bootstrap-datetimepicker.tr.js"></script>
+<script type="text/javascript">
+    $('.form_datetime').datetimepicker({
+        language:  'tr',
+        format: 'yyyy-mm-dd hh:ii',
+        weekStart: 1,
+        todayBtn:  1,
+		autoclose: 1,
+		todayHighlight: 1,
+		startView: 2,
+		forceParse: 0,
+		showMeridian: 1,
+        minuteStep: 1
+    });
+
+    $('.form_datetime1').datetimepicker({
+        language:  'tr',
+        format: 'yyyy-mm-dd hh:ii',
+        weekStart: 1,
+        todayBtn: 1,
+        autoclose: 1,
+        todayHighlight: 1,
+        startView: 2,
+        forceParse: 0,
+        showMeridian: 1,
+        minuteStep: 1
+    });
+</script>
+
+    <script>
+        function selected()
+        {
+            var a = document.getElementById('tarih');
+            a.setAttribute('disabled', 'disabled');
+        }
+
+        function notSelected() {
+            var a = document.getElementById('tarih');
+            a.removeAttribute('disabled');
+
+            var a = document.getElementById('raporTarihi');
+            a.removeAttribute('disabled');
+        }
+
+        function selected1() {
+            var a = document.getElementById('raporTarihi');
+            a.setAttribute('disabled', 'disabled');
+        }
+
+    </script>
+    }
+
+
+

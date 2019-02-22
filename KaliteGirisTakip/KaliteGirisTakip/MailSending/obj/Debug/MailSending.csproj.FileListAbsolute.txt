@@ -1,0 +1,104 @@
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\MailSending\obj\Debug\MailSending.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\MailSending\bin\Debug\Firma.cs
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\MailSending\bin\Debug\LabTalep.cs
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\MailSending\bin\Debug\Personel.cs
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\MailSending\bin\Debug\MailSending.dll.config
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\MailSending\bin\Debug\MailSending.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\MailSending\bin\Debug\MailSending.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\MailSending\bin\Debug\KaliteGiris.Entities.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\MailSending\bin\Debug\KaliteGiris.Helper.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\MailSending\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\MailSending\bin\Debug\System.Web.Helpers.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\MailSending\bin\Debug\System.Web.Mvc.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\MailSending\bin\Debug\System.Web.Razor.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\MailSending\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\MailSending\bin\Debug\System.Web.WebPages.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\MailSending\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\MailSending\bin\Debug\KaliteGiris.Entities.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\MailSending\bin\Debug\KaliteGiris.Helper.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\MailSending\bin\Debug\System.Web.Helpers.xml
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\MailSending\bin\Debug\System.Web.Mvc.xml
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\MailSending\bin\Debug\System.Web.Razor.xml
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\MailSending\bin\Debug\System.Web.WebPages.xml
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\MailSending\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\MailSending\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\MailSending\obj\Debug\MailSending.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\MailSending\obj\Debug\MailSending.pdb
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\MailSending\bin\Debug\Firma.cs
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\MailSending\bin\Debug\LabTalep.cs
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\MailSending\bin\Debug\Personel.cs
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\MailSending\bin\Debug\MailSending.dll.config
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\MailSending\bin\Debug\MailSending.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\MailSending\bin\Debug\MailSending.pdb
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\MailSending\bin\Debug\KaliteGiris.Entities.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\MailSending\bin\Debug\KaliteGiris.Helper.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\MailSending\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\MailSending\bin\Debug\System.Web.Helpers.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\MailSending\bin\Debug\System.Web.Mvc.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\MailSending\bin\Debug\System.Web.Razor.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\MailSending\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\MailSending\bin\Debug\System.Web.WebPages.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\MailSending\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\MailSending\bin\Debug\KaliteGiris.Entities.pdb
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\MailSending\bin\Debug\KaliteGiris.Helper.pdb
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\MailSending\bin\Debug\System.Web.Helpers.xml
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\MailSending\bin\Debug\System.Web.Mvc.xml
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\MailSending\bin\Debug\System.Web.Razor.xml
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\MailSending\bin\Debug\System.Web.WebPages.xml
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\MailSending\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\MailSending\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\MailSending\obj\Debug\MailSending.csprojResolveAssemblyReference.cache
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\MailSending\obj\Debug\MailSending.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\MailSending\obj\Debug\MailSending.pdb
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\MailSending\bin\Debug\Firma.cs
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\MailSending\bin\Debug\LabTalep.cs
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\MailSending\bin\Debug\Personel.cs
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\MailSending\bin\Debug\MailSending.dll.config
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\MailSending\bin\Debug\MailSending.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\MailSending\bin\Debug\MailSending.pdb
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\MailSending\bin\Debug\KaliteGiris.Entities.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\MailSending\bin\Debug\KaliteGiris.Helper.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\MailSending\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\MailSending\bin\Debug\System.Web.Helpers.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\MailSending\bin\Debug\System.Web.Mvc.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\MailSending\bin\Debug\System.Web.Razor.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\MailSending\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\MailSending\bin\Debug\System.Web.WebPages.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\MailSending\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\MailSending\bin\Debug\KaliteGiris.Entities.pdb
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\MailSending\bin\Debug\KaliteGiris.Helper.pdb
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\MailSending\bin\Debug\System.Web.Helpers.xml
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\MailSending\bin\Debug\System.Web.Mvc.xml
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\MailSending\bin\Debug\System.Web.Razor.xml
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\MailSending\bin\Debug\System.Web.WebPages.xml
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\MailSending\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\MailSending\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\MailSending\obj\Debug\MailSending.csprojResolveAssemblyReference.cache
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\MailSending\obj\Debug\MailSending.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\MailSending\obj\Debug\MailSending.pdb
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\MailSending\bin\Debug\Firma.cs
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\MailSending\bin\Debug\LabTalep.cs
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\MailSending\bin\Debug\Personel.cs
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\MailSending\bin\Debug\MailSending.dll.config
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\MailSending\bin\Debug\MailSending.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\MailSending\bin\Debug\MailSending.pdb
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\MailSending\bin\Debug\KaliteGiris.Entities.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\MailSending\bin\Debug\KaliteGiris.Helper.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\MailSending\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\MailSending\bin\Debug\System.Web.Helpers.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\MailSending\bin\Debug\System.Web.Mvc.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\MailSending\bin\Debug\System.Web.Razor.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\MailSending\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\MailSending\bin\Debug\System.Web.WebPages.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\MailSending\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\MailSending\bin\Debug\KaliteGiris.Entities.pdb
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\MailSending\bin\Debug\KaliteGiris.Helper.pdb
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\MailSending\bin\Debug\System.Web.Helpers.xml
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\MailSending\bin\Debug\System.Web.Mvc.xml
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\MailSending\bin\Debug\System.Web.Razor.xml
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\MailSending\bin\Debug\System.Web.WebPages.xml
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\MailSending\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\MailSending\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\MailSending\obj\Debug\MailSending.csprojResolveAssemblyReference.cache
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\MailSending\obj\Debug\MailSending.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\MailSending\obj\Debug\MailSending.pdb

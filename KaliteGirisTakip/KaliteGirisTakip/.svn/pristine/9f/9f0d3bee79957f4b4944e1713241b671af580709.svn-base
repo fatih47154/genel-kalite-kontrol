@@ -1,0 +1,80 @@
+﻿using KaliteGiris.IEfDal;
+using KaliteGiris.EfDal;
+using KaliteGiris.Entities;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace KaliteGiris.EfDal
+{
+    public class DurumTipiEf : IDurumTipiEf
+    {
+        DurumTipi DurumTipi { get; set; }
+
+        public List<DurumTipi> DurumListele()
+        {
+            List<DurumTipi> DurumTipiList = null;
+
+            try
+            {
+                LabDataModel dataModel = new LabDataModel();
+                DurumTipiList = dataModel.DurumTipi.ToList();
+                var result = DurumTipiList.Where(e => e.DurumTipiId != null).ToList();
+                DurumTipiList = result;
+            }
+            catch (Exception ex)
+            {
+                //Log4NetLibrary.HataDataBaseLog.LogStart.Error(Log4NetLibrary.GetMethodProperties.GetMethodFullName(), ex);
+            }
+            return DurumTipiList;
+        }
+
+        public int DurumTipiEkle(DurumTipi DurumTipi)
+        {
+            int sonuc = 0;
+            try
+            {
+                LabDataModel dataModel = new LabDataModel();
+                dataModel.DurumTipi.Add(DurumTipi);
+                sonuc = dataModel.SaveChanges();
+            }
+            catch (Exception ex)
+            {
+
+
+            }
+            return sonuc;
+        }
+
+        public int DurumTipiGuncelle(DurumTipi DurumTipi)
+        {
+            int sonuc = 0;
+            Guid id = DurumTipi.DurumTipiId;
+
+
+            try
+            {
+                LabDataModel dataModel = new LabDataModel();
+
+
+
+                if (dataModel.DurumTipi.Find(id) != null)
+                {
+
+                    dataModel.Entry(DurumTipi).CurrentValues.SetValues(DurumTipi);
+                    sonuc = dataModel.SaveChanges();
+                }
+            }
+            catch (Exception ex)
+            {
+                //  Log4NetLibrary.HataDataBaseLog.LogStart.Error(Log4NetLibrary.GetMethodProperties.GetMethodFullName(), ex);
+            }
+
+            return sonuc;
+        }
+
+
+    }
+}

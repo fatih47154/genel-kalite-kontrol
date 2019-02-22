@@ -1,0 +1,40 @@
+namespace KaliteGiris.EfDal.Migrations
+{
+    using System;
+    using System.Data.Entity.Migrations;
+    
+    public partial class DurumUpdate : DbMigration
+    {
+        public override void Up()
+        {
+            DropIndex("dbo.Durum", new[] { "DurumTipiId" });
+            DropIndex("dbo.LabTalep", new[] { "FirmaId" });
+            DropIndex("dbo.LabTalep", new[] { "PersonelId" });
+            DropIndex("dbo.LabTalep", new[] { "DurumId" });
+            AlterColumn("dbo.Durum", "DurumTipiId", c => c.Guid(nullable: false));
+            AlterColumn("dbo.LabTalep", "FirmaId", c => c.Guid(nullable: false));
+            AlterColumn("dbo.LabTalep", "PersonelId", c => c.Guid(nullable: false));
+            AlterColumn("dbo.LabTalep", "DurumId", c => c.Guid(nullable: false));
+            CreateIndex("dbo.Durum", "DurumTipiId");
+            CreateIndex("dbo.LabTalep", "FirmaId");
+            CreateIndex("dbo.LabTalep", "PersonelId");
+            CreateIndex("dbo.LabTalep", "DurumId");
+        }
+        
+        public override void Down()
+        {
+            DropIndex("dbo.LabTalep", new[] { "DurumId" });
+            DropIndex("dbo.LabTalep", new[] { "PersonelId" });
+            DropIndex("dbo.LabTalep", new[] { "FirmaId" });
+            DropIndex("dbo.Durum", new[] { "DurumTipiId" });
+            AlterColumn("dbo.LabTalep", "DurumId", c => c.Guid(nullable: false, identity: true));
+            AlterColumn("dbo.LabTalep", "PersonelId", c => c.Guid(nullable: false, identity: true));
+            AlterColumn("dbo.LabTalep", "FirmaId", c => c.Guid(nullable: false, identity: true));
+            AlterColumn("dbo.Durum", "DurumTipiId", c => c.Guid(nullable: false, identity: true));
+            CreateIndex("dbo.LabTalep", "DurumId");
+            CreateIndex("dbo.LabTalep", "PersonelId");
+            CreateIndex("dbo.LabTalep", "FirmaId");
+            CreateIndex("dbo.Durum", "DurumTipiId");
+        }
+    }
+}

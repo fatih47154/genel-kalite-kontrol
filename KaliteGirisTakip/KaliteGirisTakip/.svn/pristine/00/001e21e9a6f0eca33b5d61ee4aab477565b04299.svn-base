@@ -1,0 +1,45 @@
+﻿namespace KaliteGiris.Entities
+{
+
+    using System;
+    using System.Collections.Generic;
+    using System.ComponentModel.DataAnnotations.Schema;
+    using System.Linq;
+    using System.Text;
+    using System.Threading.Tasks;
+    using System.Data.SqlClient;
+    using System.ComponentModel.DataAnnotations;
+
+    [Table("LabTalep")]
+    public partial class LabTalep
+    {
+       
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        [Key]
+        public Guid LabTalepId { get; set; }
+        public int Sira { get; set; }
+        public DateTime Tarih { get; set; }
+        public DateTime RaporTarihi { get; set; }
+
+       
+        public Guid FirmaId { get; set; }
+
+        public string SozlesmeNo { get; set; }
+        public string AlimTipi { get; set; }
+        public string Malzeme { get; set; }
+        public string IrsaliyeNo { get; set; }
+
+       
+        public Guid PersonelId { get; set; }
+
+        public string LabDurum { get; set; }
+        public string LabSonucu { get; set; }
+        public string Aciklama { get; set; }
+
+        public virtual Personel Personel { get; set; }
+
+        public virtual Firma Firma { get; set; }
+
+       
+    }
+}

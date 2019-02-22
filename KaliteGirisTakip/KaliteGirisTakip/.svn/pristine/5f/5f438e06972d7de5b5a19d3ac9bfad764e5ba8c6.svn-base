@@ -1,0 +1,107 @@
+﻿using KaliteGiris.EfDal;
+using KaliteGiris.Entities;
+using KaliteGiris.IEfDal;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace KaliteGiris.EfDal
+{
+ public   class FirmaEf : IFirmaEf
+    {
+        Firma Firma { get; set; }
+
+
+        public int FirmaEkle(Firma Firma)
+        {
+            int sonuc = 0;
+            try
+            {
+                LabDataModel dataModel = new LabDataModel();
+                dataModel.Firma.Add(Firma);
+                sonuc = dataModel.SaveChanges();
+            }
+            catch (Exception ex)
+            {
+
+
+            }
+            return sonuc;
+        }
+        public int FirmaGuncelle(Firma Firma)
+        {
+            int sonuc = 0;
+            Guid id = Firma.FirmaId;
+
+            try
+            {
+                LabDataModel dataModel = new LabDataModel();
+                Firma firma = dataModel.Firma.Find(id);
+
+
+                if (firma != null)
+                {
+
+                    dataModel.Entry(firma).CurrentValues.SetValues(Firma);
+                    sonuc = dataModel.SaveChanges();
+                }
+            }
+            catch (Exception ex)
+            {
+                //  Log4NetLibrary.HataDataBaseLog.LogStart.Error(Log4NetLibrary.GetMethodProperties.GetMethodFullName(), ex);
+            }
+
+            return sonuc;
+        }
+        public List<Firma> FirmaListele()
+        {
+            List<Firma> FirmaList = null;
+
+
+            try
+            {
+
+                LabDataModel dataModel = new LabDataModel();
+
+
+                FirmaList = dataModel.Firma.ToList();
+                var result = FirmaList.ToList();
+                FirmaList = result;
+
+
+
+            }
+            catch (Exception ex)
+            {
+
+                //Log4NetLibrary.HataDataBaseLog.LogStart.Error(Log4NetLibrary.GetMethodProperties.GetMethodFullName(), ex);
+            }
+            return FirmaList;
+        }
+        public Firma FirmaBul(Guid FirmaID)
+        {
+
+            try
+            {
+
+                LabDataModel dataModel = new LabDataModel();
+                Firma = dataModel.Firma.Find(FirmaID);
+            }
+            catch (Exception ex)
+            {
+
+                //Log4NetLibrary.HataDataBaseLog.LogStart.Error(Log4NetLibrary.GetMethodProperties.GetMethodFullName(), ex);
+            }
+            return Firma;
+        }
+
+        public int FirmaBul(Firma Firma)
+        {
+            throw new NotImplementedException();
+        }
+    }
+
+
+}

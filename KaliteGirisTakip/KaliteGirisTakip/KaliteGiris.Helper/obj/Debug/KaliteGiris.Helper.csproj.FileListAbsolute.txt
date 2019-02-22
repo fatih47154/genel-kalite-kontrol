@@ -1,0 +1,19 @@
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Helper\bin\Debug\KaliteGiris.Helper.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Helper\bin\Debug\KaliteGiris.Helper.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Helper\obj\Debug\KaliteGiris.Helper.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Helper\obj\Debug\KaliteGiris.Helper.pdb
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Helper\bin\Debug\KaliteGiris.Helper.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Helper\bin\Debug\KaliteGiris.Helper.pdb
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Helper\obj\Debug\KaliteGiris.Helper.csprojResolveAssemblyReference.cache
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Helper\obj\Debug\KaliteGiris.Helper.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Helper\obj\Debug\KaliteGiris.Helper.pdb
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Helper\bin\Debug\KaliteGiris.Helper.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Helper\bin\Debug\KaliteGiris.Helper.pdb
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Helper\obj\Debug\KaliteGiris.Helper.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Helper\obj\Debug\KaliteGiris.Helper.pdb
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Helper\obj\Debug\KaliteGiris.Helper.csprojResolveAssemblyReference.cache
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Helper\bin\Debug\KaliteGiris.Helper.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Helper\bin\Debug\KaliteGiris.Helper.pdb
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Helper\obj\Debug\KaliteGiris.Helper.csprojResolveAssemblyReference.cache
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Helper\obj\Debug\KaliteGiris.Helper.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Helper\obj\Debug\KaliteGiris.Helper.pdb

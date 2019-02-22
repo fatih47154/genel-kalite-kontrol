@@ -1,0 +1,202 @@
+﻿using KaliteGiris.Entities;
+
+namespace Lab.WinForms
+{
+    partial class Form1
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.components = new System.ComponentModel.Container();
+            this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.labTalepBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.labTalepIdDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.siraDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.tarihDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.raporTarihiDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.firmaIDDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.sozlesmeNoDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.alimTipiDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.malzemeDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.ırsaliyeNoDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.gkkPersonelIdDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.labDurumDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.labSonucuDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.aciklamaDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.kayitDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.labTalepBindingSource)).BeginInit();
+            this.SuspendLayout();
+            // 
+            // dataGridView1
+            // 
+            this.dataGridView1.AutoGenerateColumns = false;
+            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView1.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
+            this.labTalepIdDataGridViewTextBoxColumn,
+            this.siraDataGridViewTextBoxColumn,
+            this.tarihDataGridViewTextBoxColumn,
+            this.raporTarihiDataGridViewTextBoxColumn,
+            this.firmaIDDataGridViewTextBoxColumn,
+            this.sozlesmeNoDataGridViewTextBoxColumn,
+            this.alimTipiDataGridViewTextBoxColumn,
+            this.malzemeDataGridViewTextBoxColumn,
+            this.ırsaliyeNoDataGridViewTextBoxColumn,
+            this.gkkPersonelIdDataGridViewTextBoxColumn,
+            this.labDurumDataGridViewTextBoxColumn,
+            this.labSonucuDataGridViewTextBoxColumn,
+            this.aciklamaDataGridViewTextBoxColumn,
+            this.kayitDataGridViewTextBoxColumn});
+            this.dataGridView1.DataSource = this.labTalepBindingSource;
+            this.dataGridView1.Location = new System.Drawing.Point(12, 12);
+            this.dataGridView1.Name = "dataGridView1";
+            this.dataGridView1.Size = new System.Drawing.Size(894, 289);
+            this.dataGridView1.TabIndex = 0;
+            // 
+            // labTalepBindingSource
+            // 
+            this.labTalepBindingSource.DataSource = typeof(LabTalep);
+            // 
+            // labTalepIdDataGridViewTextBoxColumn
+            // 
+            this.labTalepIdDataGridViewTextBoxColumn.DataPropertyName = "LabTalepId";
+            this.labTalepIdDataGridViewTextBoxColumn.HeaderText = "LabTalepId";
+            this.labTalepIdDataGridViewTextBoxColumn.Name = "labTalepIdDataGridViewTextBoxColumn";
+            // 
+            // siraDataGridViewTextBoxColumn
+            // 
+            this.siraDataGridViewTextBoxColumn.DataPropertyName = "Sira";
+            this.siraDataGridViewTextBoxColumn.HeaderText = "Sira";
+            this.siraDataGridViewTextBoxColumn.Name = "siraDataGridViewTextBoxColumn";
+            // 
+            // tarihDataGridViewTextBoxColumn
+            // 
+            this.tarihDataGridViewTextBoxColumn.DataPropertyName = "Tarih";
+            this.tarihDataGridViewTextBoxColumn.HeaderText = "Tarih";
+            this.tarihDataGridViewTextBoxColumn.Name = "tarihDataGridViewTextBoxColumn";
+            // 
+            // raporTarihiDataGridViewTextBoxColumn
+            // 
+            this.raporTarihiDataGridViewTextBoxColumn.DataPropertyName = "RaporTarihi";
+            this.raporTarihiDataGridViewTextBoxColumn.HeaderText = "RaporTarihi";
+            this.raporTarihiDataGridViewTextBoxColumn.Name = "raporTarihiDataGridViewTextBoxColumn";
+            // 
+            // firmaIDDataGridViewTextBoxColumn
+            // 
+            this.firmaIDDataGridViewTextBoxColumn.DataPropertyName = "FirmaID";
+            this.firmaIDDataGridViewTextBoxColumn.HeaderText = "FirmaID";
+            this.firmaIDDataGridViewTextBoxColumn.Name = "firmaIDDataGridViewTextBoxColumn";
+            // 
+            // sozlesmeNoDataGridViewTextBoxColumn
+            // 
+            this.sozlesmeNoDataGridViewTextBoxColumn.DataPropertyName = "SozlesmeNo";
+            this.sozlesmeNoDataGridViewTextBoxColumn.HeaderText = "SozlesmeNo";
+            this.sozlesmeNoDataGridViewTextBoxColumn.Name = "sozlesmeNoDataGridViewTextBoxColumn";
+            // 
+            // alimTipiDataGridViewTextBoxColumn
+            // 
+            this.alimTipiDataGridViewTextBoxColumn.DataPropertyName = "AlimTipi";
+            this.alimTipiDataGridViewTextBoxColumn.HeaderText = "AlimTipi";
+            this.alimTipiDataGridViewTextBoxColumn.Name = "alimTipiDataGridViewTextBoxColumn";
+            // 
+            // malzemeDataGridViewTextBoxColumn
+            // 
+            this.malzemeDataGridViewTextBoxColumn.DataPropertyName = "Malzeme";
+            this.malzemeDataGridViewTextBoxColumn.HeaderText = "Malzeme";
+            this.malzemeDataGridViewTextBoxColumn.Name = "malzemeDataGridViewTextBoxColumn";
+            // 
+            // ırsaliyeNoDataGridViewTextBoxColumn
+            // 
+            this.ırsaliyeNoDataGridViewTextBoxColumn.DataPropertyName = "IrsaliyeNo";
+            this.ırsaliyeNoDataGridViewTextBoxColumn.HeaderText = "IrsaliyeNo";
+            this.ırsaliyeNoDataGridViewTextBoxColumn.Name = "ırsaliyeNoDataGridViewTextBoxColumn";
+            // 
+            // gkkPersonelIdDataGridViewTextBoxColumn
+            // 
+            this.gkkPersonelIdDataGridViewTextBoxColumn.DataPropertyName = "GkkPersonelId";
+            this.gkkPersonelIdDataGridViewTextBoxColumn.HeaderText = "GkkPersonelId";
+            this.gkkPersonelIdDataGridViewTextBoxColumn.Name = "gkkPersonelIdDataGridViewTextBoxColumn";
+            // 
+            // labDurumDataGridViewTextBoxColumn
+            // 
+            this.labDurumDataGridViewTextBoxColumn.DataPropertyName = "LabDurum";
+            this.labDurumDataGridViewTextBoxColumn.HeaderText = "LabDurum";
+            this.labDurumDataGridViewTextBoxColumn.Name = "labDurumDataGridViewTextBoxColumn";
+            // 
+            // labSonucuDataGridViewTextBoxColumn
+            // 
+            this.labSonucuDataGridViewTextBoxColumn.DataPropertyName = "LabSonucu";
+            this.labSonucuDataGridViewTextBoxColumn.HeaderText = "LabSonucu";
+            this.labSonucuDataGridViewTextBoxColumn.Name = "labSonucuDataGridViewTextBoxColumn";
+            // 
+            // aciklamaDataGridViewTextBoxColumn
+            // 
+            this.aciklamaDataGridViewTextBoxColumn.DataPropertyName = "Aciklama";
+            this.aciklamaDataGridViewTextBoxColumn.HeaderText = "Aciklama";
+            this.aciklamaDataGridViewTextBoxColumn.Name = "aciklamaDataGridViewTextBoxColumn";
+            // 
+            // kayitDataGridViewTextBoxColumn
+            // 
+            this.kayitDataGridViewTextBoxColumn.DataPropertyName = "Kayit";
+            this.kayitDataGridViewTextBoxColumn.HeaderText = "Kayit";
+            this.kayitDataGridViewTextBoxColumn.Name = "kayitDataGridViewTextBoxColumn";
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(906, 368);
+            this.Controls.Add(this.dataGridView1);
+            this.Name = "Form1";
+            this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.labTalepBindingSource)).EndInit();
+            this.ResumeLayout(false);
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.DataGridView dataGridView1;
+        private System.Windows.Forms.DataGridViewTextBoxColumn labTalepIdDataGridViewTextBoxColumn;
+        private System.Windows.Forms.DataGridViewTextBoxColumn siraDataGridViewTextBoxColumn;
+        private System.Windows.Forms.DataGridViewTextBoxColumn tarihDataGridViewTextBoxColumn;
+        private System.Windows.Forms.DataGridViewTextBoxColumn raporTarihiDataGridViewTextBoxColumn;
+        private System.Windows.Forms.DataGridViewTextBoxColumn firmaIDDataGridViewTextBoxColumn;
+        private System.Windows.Forms.DataGridViewTextBoxColumn sozlesmeNoDataGridViewTextBoxColumn;
+        private System.Windows.Forms.DataGridViewTextBoxColumn alimTipiDataGridViewTextBoxColumn;
+        private System.Windows.Forms.DataGridViewTextBoxColumn malzemeDataGridViewTextBoxColumn;
+        private System.Windows.Forms.DataGridViewTextBoxColumn ırsaliyeNoDataGridViewTextBoxColumn;
+        private System.Windows.Forms.DataGridViewTextBoxColumn gkkPersonelIdDataGridViewTextBoxColumn;
+        private System.Windows.Forms.DataGridViewTextBoxColumn labDurumDataGridViewTextBoxColumn;
+        private System.Windows.Forms.DataGridViewTextBoxColumn labSonucuDataGridViewTextBoxColumn;
+        private System.Windows.Forms.DataGridViewTextBoxColumn aciklamaDataGridViewTextBoxColumn;
+        private System.Windows.Forms.DataGridViewTextBoxColumn kayitDataGridViewTextBoxColumn;
+        private System.Windows.Forms.BindingSource labTalepBindingSource;
+    }
+}
+

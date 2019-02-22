@@ -1,0 +1,364 @@
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\obj\Debug\KaliteGiris.WinForms.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\obj\Debug\Lab.WinForms.Firma.resources
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\obj\Debug\Lab.WinForms.Frm.resources
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\obj\Debug\Lab.WinForms.Form1.resources
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\obj\Debug\Lab.WinForms.Properties.Resources.resources
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\obj\Debug\KaliteGiris.WinForms.csproj.GenerateResource.Cache
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\Firma.cs
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\LabTalep.cs
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\Personel.cs
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\LabDataModel.cs
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\LabTalepEf.cs
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\Lab.WinForms.exe.config
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\Lab.WinForms.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\Lab.WinForms.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\EntityFramework.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\KaliteGiris.Bll.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\KaliteGiris.Entities.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\KaliteGiris.IEfDal.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\MailSending.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\KaliteGiris.EfDal.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\KaliteGiris.Helper.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\KaliteGiris.Bll.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\KaliteGiris.Entities.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\EntityFramework.xml
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\KaliteGiris.IEfDal.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\MailSending.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\KaliteGiris.EfDal.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\KaliteGiris.Helper.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\obj\Debug\Lab.WinForms.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\obj\Debug\Lab.WinForms.pdb
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\Firma.cs
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\LabTalep.cs
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\Personel.cs
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\Lab.WinForms.exe.config
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\Lab.WinForms.exe
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\Lab.WinForms.pdb
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.Data.v15.2.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.Utils.v15.2.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.XtraGrid.v15.2.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.XtraLayout.v15.2.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.XtraPrinting.v15.2.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\EntityFramework.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\KaliteGiris.Bll.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\KaliteGiris.Entities.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\KaliteGiris.IEfDal.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\MailSending.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\KaliteGiris.EfDal.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.RichEdit.v15.2.Core.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.XtraBars.v15.2.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.XtraTreeList.v15.2.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\KaliteGiris.Helper.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.Office.v15.2.Core.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.Pdf.v15.2.Core.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.Pdf.v15.2.Drawing.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\KaliteGiris.Bll.pdb
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\KaliteGiris.Entities.pdb
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.Data.v15.2.xml
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.Utils.v15.2.xml
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\EntityFramework.xml
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\KaliteGiris.IEfDal.pdb
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\MailSending.pdb
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\KaliteGiris.EfDal.pdb
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.RichEdit.v15.2.Core.xml
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.XtraBars.v15.2.xml
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.XtraTreeList.v15.2.xml
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\KaliteGiris.Helper.pdb
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.Office.v15.2.Core.xml
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.Pdf.v15.2.Core.xml
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.Pdf.v15.2.Drawing.xml
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\de\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\es\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\ja\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\ru\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\de\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\es\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\ja\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\ru\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\de\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\es\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\bin\Debug\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\obj\Debug\KaliteGiris.WinForms.csprojResolveAssemblyReference.cache
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\obj\Debug\Lab.WinForms.frmLab.resources
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\obj\Debug\Lab.WinForms.Properties.Resources.resources
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\obj\Debug\KaliteGiris.WinForms.csproj.GenerateResource.Cache
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\obj\Debug\Lab.WinForms.exe.licenses
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\obj\Debug\Lab.WinForms.exe
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\obj\Debug\Lab.WinForms.pdb
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\Lab.WinForms\obj\Debug\Lab.WinForms.girisLab.resources
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\Firma.cs
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\LabTalep.cs
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\Personel.cs
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\Lab.WinForms.exe.config
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\Lab.WinForms.exe
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\Lab.WinForms.pdb
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.Data.v18.1.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.Utils.v18.1.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.XtraBars.v18.1.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.XtraGrid.v18.1.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.XtraLayout.v18.1.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.XtraPrinting.v18.1.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\EntityFramework.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\KaliteGiris.Bll.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\KaliteGiris.Entities.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\KaliteGiris.IEfDal.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\KaliteGiris.EfDal.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\MailSending.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.RichEdit.v18.1.Core.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.XtraTreeList.v18.1.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\KaliteGiris.Helper.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.Office.v18.1.Core.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.Images.v18.1.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\KaliteGiris.Bll.pdb
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\KaliteGiris.Entities.pdb
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.Data.v18.1.xml
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.Utils.v18.1.xml
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.XtraBars.v18.1.xml
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.XtraGrid.v18.1.xml
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.XtraLayout.v18.1.xml
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.XtraPrinting.v18.1.xml
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\EntityFramework.xml
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\KaliteGiris.IEfDal.pdb
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\KaliteGiris.EfDal.pdb
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\MailSending.pdb
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.RichEdit.v18.1.Core.xml
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.XtraTreeList.v18.1.xml
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\KaliteGiris.Helper.pdb
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.Office.v18.1.Core.xml
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\de\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\es\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\ja\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\ru\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\de\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\es\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\ja\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\ru\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\de\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\es\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\ja\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\ru\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\de\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\es\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\ja\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\ru\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\obj\Debug\KaliteGiris.WinForms.csprojResolveAssemblyReference.cache
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\obj\Debug\Lab.WinForms.frmLab.resources
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\obj\Debug\Lab.WinForms.girisLab.resources
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\obj\Debug\Lab.WinForms.Properties.Resources.resources
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\obj\Debug\KaliteGiris.WinForms.csproj.GenerateResource.Cache
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\obj\Debug\Lab.WinForms.exe
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\obj\Debug\Lab.WinForms.pdb
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\obj\Debug\Lab.WinForms.exe.licenses
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\LabDataModel.cs
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\LabTalepEf.cs
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\Lab.WinForms.exe.config
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\obj\Debug\Lab.WinForms.exe
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\obj\Debug\Lab.WinForms.pdb
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\Firma.cs
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\LabTalep.cs
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\Personel.cs
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\LabDataModel.cs
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\LabTalepEf.cs
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\Lab.WinForms.exe
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\Lab.WinForms.pdb
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.Data.v18.1.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.Utils.v18.1.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.XtraBars.v18.1.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.XtraGrid.v18.1.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.XtraLayout.v18.1.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.XtraPrinting.v18.1.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\EntityFramework.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\EntityFramework.SqlServer.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\KaliteGiris.Bll.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\KaliteGiris.Entities.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\KaliteGiris.IEfDal.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\KaliteGiris.EfDal.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\MailSending.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.RichEdit.v18.1.Core.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.XtraTreeList.v18.1.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\KaliteGiris.Helper.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.Office.v18.1.Core.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.Images.v18.1.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\KaliteGiris.Bll.pdb
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\KaliteGiris.Entities.pdb
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.Data.v18.1.xml
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.Utils.v18.1.xml
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.XtraBars.v18.1.xml
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.XtraGrid.v18.1.xml
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.XtraLayout.v18.1.xml
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.XtraPrinting.v18.1.xml
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\EntityFramework.xml
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\EntityFramework.SqlServer.xml
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\KaliteGiris.IEfDal.pdb
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\KaliteGiris.EfDal.pdb
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\MailSending.pdb
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.RichEdit.v18.1.Core.xml
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.XtraTreeList.v18.1.xml
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\KaliteGiris.Helper.pdb
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\DevExpress.Office.v18.1.Core.xml
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\de\DevExpress.XtraGrid.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\es\DevExpress.XtraGrid.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\ja\DevExpress.XtraGrid.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\ru\DevExpress.XtraGrid.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\de\DevExpress.XtraLayout.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\es\DevExpress.XtraLayout.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\ja\DevExpress.XtraLayout.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\ru\DevExpress.XtraLayout.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\de\DevExpress.XtraPrinting.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\es\DevExpress.XtraPrinting.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\ja\DevExpress.XtraPrinting.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\ru\DevExpress.XtraPrinting.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\de\DevExpress.XtraTreeList.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\es\DevExpress.XtraTreeList.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\ja\DevExpress.XtraTreeList.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\ru\DevExpress.XtraTreeList.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\bin\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\obj\Debug\KaliteGiris.WinForms.csprojResolveAssemblyReference.cache
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\obj\Debug\Lab.WinForms.frmLab.resources
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\obj\Debug\Lab.WinForms.girisLab.resources
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\obj\Debug\Lab.WinForms.Properties.Resources.resources
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\obj\Debug\KaliteGiris.WinForms.csproj.GenerateResource.Cache
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\Lab.WinForms\obj\Debug\Lab.WinForms.exe.licenses

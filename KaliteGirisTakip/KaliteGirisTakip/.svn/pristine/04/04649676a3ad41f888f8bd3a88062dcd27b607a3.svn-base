@@ -1,0 +1,76 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.Mvc;
+using KaliteGiris.Bll;
+using KaliteGiris.Entities;
+using KaliteGiris.EfDal;
+
+namespace KaliteGiris.Web.Controllers
+{
+    public class YeniKayitController : Controller
+    {
+        public LabTalepManager LabTalepManager { get; set; }
+        public List<LabTalep> listLab { get; set; }
+        private int siraArtis()
+        {
+            LabTalepManager = new LabTalepManager();
+            listLab = LabTalepManager.LabTalepListele();
+            int yeniSira;
+            int baslangic = 0;
+            if (listLab != null)
+            {
+                foreach (var item in listLab)
+                {
+                    if (item.Sira > baslangic)
+                    {
+                        baslangic = item.Sira;
+                    }
+                }
+            }
+
+            yeniSira = baslangic + 1;
+            return yeniSira;
+        }
+
+        LabDataModel db = new LabDataModel();
+        // GET: YeniKayit
+        public ActionResult yeniKayit()
+        {
+            
+            var firma = db.Firma.ToList();
+            var personel = db.Personel.ToList();
+            var durum = db.Durum.ToList();
+            var alimTipi = db.AlimTipi.ToList();
+
+            ViewBag.firma = firma;
+            ViewBag.personel = personel;
+            ViewBag.durum = durum;
+            ViewBag.alimTipi = alimTipi;
+            return View();
+        }
+
+        [HttpPost]
+        public ActionResult yeniKayit(LabTalep veri)
+        {
+            string date = DateTime.Now.ToString();
+            string mesaj;
+            veri.Sira = siraArtis();
+            veri.Tarih = Convert.ToDateTime(date);
+            veri.RaporTarihi = Convert.ToDateTime(date);
+            try
+            { 
+                db.LabTalep.Add(veri);
+                db.SaveChanges();
+                mesaj = veri.SozlesmeNo+" Sözleşme Numaralı Talep Bilgisi Kaydedildi.";
+            }
+            catch
+            {
+                mesaj = veri.SozlesmeNo + " Sözleşme Numaralı Talep Bilgisi Kaydedilirken Hata Oluştu.";
+            }
+            TempData["a"] = mesaj;
+            return RedirectToAction("kayitListele", "KayıtListele");
+        }
+    }
+}

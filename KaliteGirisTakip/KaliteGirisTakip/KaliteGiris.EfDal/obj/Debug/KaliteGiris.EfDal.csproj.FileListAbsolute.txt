@@ -1,0 +1,107 @@
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\Firma.cs
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\LabTalep.cs
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\Personel.cs
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\LabDataModel.cs
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\LabTalepEf.cs
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\KaliteGiris.EfDal.dll.config
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\KaliteGiris.EfDal.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\KaliteGiris.EfDal.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\EntityFramework.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\KaliteGiris.Entities.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\KaliteGiris.IEfDal.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\KaliteGiris.Entities.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\KaliteGiris.IEfDal.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\EntityFramework.xml
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\obj\Debug\KaliteGiris.EfDal.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\obj\Debug\KaliteGiris.EfDal.Migrations.Initial.resources
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\obj\Debug\KaliteGiris.EfDal.Migrations.initial1.resources
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\obj\Debug\KaliteGiris.EfDal.Migrations.DurumUpdate.resources
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\obj\Debug\KaliteGiris.EfDal.Migrations.LapTalepUpdate.resources
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\obj\Debug\KaliteGiris.EfDal.csproj.GenerateResource.Cache
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\obj\Debug\KaliteGiris.EfDal.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\obj\Debug\KaliteGiris.EfDal.pdb
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\Firma.cs
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\LabTalep.cs
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\Personel.cs
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\LabDataModel.cs
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\LabTalepEf.cs
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\KaliteGiris.EfDal.dll.config
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\KaliteGiris.EfDal.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\KaliteGiris.EfDal.pdb
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\EntityFramework.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\KaliteGiris.Entities.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\KaliteGiris.IEfDal.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\KaliteGiris.Entities.pdb
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\KaliteGiris.IEfDal.pdb
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\EntityFramework.xml
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\obj\Debug\KaliteGiris.EfDal.csprojResolveAssemblyReference.cache
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\obj\Debug\KaliteGiris.EfDal.Migrations.initial.resources
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\obj\Debug\KaliteGiris.EfDal.csproj.GenerateResource.Cache
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\obj\Debug\KaliteGiris.EfDal.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\obj\Debug\KaliteGiris.EfDal.pdb
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\obj\Debug\KaliteGiris.EfDal.Migrations.GKKDURUM.resources
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\obj\Debug\KaliteGiris.EfDal.Migrations.SiraUpdate.resources
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\obj\Debug\KaliteGiris.EfDal.Migrations.SıraNo.resources
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\obj\Debug\KaliteGiris.EfDal.Migrations.SiraUpdate2.resources
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\obj\Debug\KaliteGiris.EfDal.Migrations.upd4.resources
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\obj\Debug\KaliteGiris.EfDal.Migrations.upd5.resources
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\obj\Debug\KaliteGiris.EfDal.Migrations.AlimTipiUpdate.resources
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\obj\Debug\KaliteGiris.EfDal.Migrations.AlimTipiUpdate2.resources
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\obj\Debug\KaliteGiris.EfDal.Migrations.PP.resources
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\obj\Debug\KaliteGiris.EfDal.Migrations.alimTipi.resources
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\obj\Debug\KaliteGiris.EfDal.Migrations.abc.resources
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\obj\Debug\KaliteGiris.EfDal.Migrations.Son.resources
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\obj\Debug\KaliteGiris.EfDal.Migrations.Son1.resources
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\obj\Debug\KaliteGiris.EfDal.Migrations.deletedMigration.resources
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\obj\Debug\KaliteGiris.EfDal.Migrations.firmaABase.resources
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\obj\Debug\KaliteGiris.EfDal.Migrations.deletedDurumOnFirma.resources
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\obj\Debug\KaliteGiris.EfDal.Migrations.menus.resources
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\obj\Debug\KaliteGiris.EfDal.Migrations.PersonelRole.resources
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\obj\Debug\KaliteGiris.EfDal.Migrations.remove.resources
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.EfDal\obj\Debug\KaliteGiris.EfDal.Migrations.NewPerRole.resources
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\Firma.cs
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\LabTalep.cs
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\Personel.cs
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\LabDataModel.cs
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\LabTalepEf.cs
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\KaliteGiris.EfDal.dll.config
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\KaliteGiris.EfDal.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\KaliteGiris.EfDal.pdb
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\EntityFramework.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\KaliteGiris.Entities.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\KaliteGiris.IEfDal.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\KaliteGiris.Entities.pdb
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\KaliteGiris.IEfDal.pdb
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\EntityFramework.xml
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.EfDal\obj\Debug\KaliteGiris.EfDal.csprojResolveAssemblyReference.cache
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.EfDal\obj\Debug\KaliteGiris.EfDal.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.EfDal\obj\Debug\KaliteGiris.EfDal.pdb
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.EfDal\obj\Debug\KaliteGiris.EfDal.Migrations.Database.resources
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.EfDal\obj\Debug\KaliteGiris.EfDal.csproj.GenerateResource.Cache
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\Firma.cs
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\LabTalep.cs
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\Personel.cs
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\LabDataModel.cs
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\LabTalepEf.cs
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\KaliteGiris.EfDal.dll.config
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\KaliteGiris.EfDal.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\KaliteGiris.EfDal.pdb
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\EntityFramework.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\EntityFramework.SqlServer.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\KaliteGiris.Entities.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\KaliteGiris.IEfDal.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\KaliteGiris.Entities.pdb
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\KaliteGiris.IEfDal.pdb
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\EntityFramework.xml
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.EfDal\bin\Debug\EntityFramework.SqlServer.xml
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.EfDal\obj\Debug\KaliteGiris.EfDal.csprojResolveAssemblyReference.cache
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.EfDal\obj\Debug\KaliteGiris.EfDal.Migrations.Database.resources
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.EfDal\obj\Debug\KaliteGiris.EfDal.csproj.GenerateResource.Cache
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.EfDal\obj\Debug\KaliteGiris.EfDal.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.EfDal\obj\Debug\KaliteGiris.EfDal.pdb

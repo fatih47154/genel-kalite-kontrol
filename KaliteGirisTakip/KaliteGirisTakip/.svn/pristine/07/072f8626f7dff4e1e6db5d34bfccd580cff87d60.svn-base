@@ -1,0 +1,22 @@
+namespace KaliteGiris.EfDal.Migrations
+{
+    using System;
+    using System.Data.Entity.Migrations;
+    
+    public partial class GKKDURUM : DbMigration
+    {
+        public override void Up()
+        {
+            AlterColumn("dbo.LabTalep", "Sira", c => c.Int(nullable: false, identity: true));
+            CreateIndex("dbo.LabTalep", "GKKSonucId");
+            AddForeignKey("dbo.LabTalep", "GKKSonucId", "dbo.Durum", "DurumId", cascadeDelete: false);
+        }
+        
+        public override void Down()
+        {
+            DropForeignKey("dbo.LabTalep", "GKKSonucId", "dbo.Durum");
+            DropIndex("dbo.LabTalep", new[] { "GKKSonucId" });
+            AlterColumn("dbo.LabTalep", "Sira", c => c.Int(nullable: false));
+        }
+    }
+}

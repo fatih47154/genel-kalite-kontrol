@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="44695b01-fb4f-48cd-8994-f27222d7f1e5" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://193.1.1.5/ikwcf/ServicePersonel.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ServicePersonel.xsd" MetadataType="Schema" ID="ec8be443-3234-4c14-b8e0-d0a1c480973d" SourceId="1" SourceUrl="http://193.1.1.5/ikwcf/ServicePersonel.svc?xsd=xsd2" />
+    <MetadataFile FileName="ServicePersonel.wsdl" MetadataType="Wsdl" ID="faf04a2f-9f21-402a-97e6-1354df0ffdbf" SourceId="1" SourceUrl="http://193.1.1.5/ikwcf/ServicePersonel.svc?wsdl" />
+    <MetadataFile FileName="ServicePersonel1.xsd" MetadataType="Schema" ID="2000a1ce-d6ab-41e6-9bed-4cd445ba4c5f" SourceId="1" SourceUrl="http://193.1.1.5/ikwcf/ServicePersonel.svc?xsd=xsd1" />
+    <MetadataFile FileName="ServicePersonel2.xsd" MetadataType="Schema" ID="8883f59a-ad65-4c43-8799-1c672cb724f1" SourceId="1" SourceUrl="http://193.1.1.5/ikwcf/ServicePersonel.svc?xsd=xsd0" />
+    <MetadataFile FileName="ServicePersonel.disco" MetadataType="Disco" ID="874fe31a-f7e7-4e8d-8bc5-b0fe0c61b248" SourceId="1" SourceUrl="http://193.1.1.5/ikwcf/ServicePersonel.svc?disco" />
+    <MetadataFile FileName="ServicePersonel3.xsd" MetadataType="Schema" ID="a0d708f2-d11e-4dd4-a58d-ae9377bba215" SourceId="1" SourceUrl="http://193.1.1.5/ikwcf/ServicePersonel.svc?xsd=xsd3" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

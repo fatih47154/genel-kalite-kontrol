@@ -1,0 +1,28 @@
+﻿
+namespace KaliteGiris.EfDal
+{
+    using Entities;
+
+    using System.Data.Entity;
+
+    public partial class LabDataModel : DbContext
+    {
+        public LabDataModel()
+            :base("name=LabDataModel")
+        {
+        }
+
+
+        public virtual DbSet<Firma> Firma { get; set; }
+        public virtual DbSet<LabTalep> LabTalep { get; set; }
+        public virtual DbSet<Personel> Personel { get; set; }
+        public virtual DbSet<Durum> Durum { get; set; }
+
+        public virtual DbSet<DurumTipi> DurumTipi { get; set; }
+
+
+        protected override void OnModelCreating(DbModelBuilder modelBuilder)
+        {
+        }
+    }
+}

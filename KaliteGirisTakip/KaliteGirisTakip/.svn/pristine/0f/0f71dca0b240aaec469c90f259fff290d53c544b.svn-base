@@ -1,0 +1,82 @@
+﻿using KaliteGiris.IEfDal;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using KaliteGiris.Entities;
+using System.Data.Entity;
+
+namespace KaliteGiris.EfDal
+{
+    public class DurumEf : IDurumEf
+    {
+        Durum Durum { get; set; }
+       
+        public int DurumEkle(Durum durum)
+        {
+            int sonuc = 0;
+            try
+            {
+                LabDataModel dataModel = new LabDataModel();
+                dataModel.Durum.Add(durum);
+                sonuc = dataModel.SaveChanges();
+            }
+            catch (Exception ex)
+            {
+            }
+            return sonuc;
+        }
+
+        public int DurumGuncelle(Durum durum)
+        {
+            int sonuc = 0;
+
+            using (var context = new LabDataModel())
+            {
+                context.Entry(durum).State = EntityState.Modified;
+                context.SaveChanges();
+                sonuc = 1;
+            }
+
+            return sonuc;
+
+
+        }
+
+        public List<Durum> DurumListele()
+        {
+            List<Durum> DurumList = new List<Durum>();
+                        
+            try
+            {
+                LabDataModel dataModel = new LabDataModel();
+                
+                DurumList = dataModel.Durum.ToList();
+                var result = DurumList.Where(e => e.DurumId != null).ToList();
+                DurumList = result;
+                
+            }
+            catch (Exception ex)
+            {
+
+                //Log4NetLibrary.HataDataBaseLog.LogStart.Error(Log4NetLibrary.GetMethodProperties.GetMethodFullName(), ex);
+            }
+            return DurumList;
+        }
+
+        public int DurumSil(Durum durum)
+        {
+            int sonuc = 0;
+
+            using (var context = new LabDataModel())
+            {
+                context.Entry(durum).State = EntityState.Deleted;
+                context.SaveChanges();
+                sonuc = 1;
+            }
+
+            return sonuc;
+        }
+    }
+}

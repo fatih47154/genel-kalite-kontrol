@@ -1,0 +1,469 @@
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\ApplicationInsights.config
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\roslyn\csc.exe
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\roslyn\vbc.exe
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\KaliteGiris.Web.dll.config
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\KaliteGiris.Web.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\KaliteGiris.Web.pdb
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\Microsoft.AI.Web.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\System.Web.Helpers.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\System.Web.Mvc.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\System.Web.Razor.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\System.Web.Webpages.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\Microsoft.AI.Web.xml
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\System.Web.Razor.xml
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\System.Web.Webpages.xml
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\System.Web.Helpers.xml
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\System.Web.Mvc.xml
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\obj\Debug\KaliteGiris.Web.csprojResolveAssemblyReference.cache
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\obj\Debug\KaliteGiris.Web.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\obj\Debug\KaliteGiris.Web.pdb
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\KaliteGiris.Bll.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\KaliteGiris.IEfDal.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\KaliteGiris.Entities.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\MailSending.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\KaliteGiris.EfDal.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\KaliteGiris.Helper.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\EntityFramework.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\KaliteGiris.Bll.pdb
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\KaliteGiris.IEfDal.pdb
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\KaliteGiris.Entities.pdb
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\MailSending.pdb
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\KaliteGiris.EfDal.pdb
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\KaliteGiris.Helper.pdb
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\EntityFramework.xml
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\LabDataModel.cs
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\LabTalepEf.cs
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\Firma.cs
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\LabTalep.cs
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\Personel.cs
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\KaliteGiris.UITest.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\KaliteGirisProje.exe
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\Lab.WinForms.exe
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.XtraLayout.v15.2.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.XtraEditors.v15.2.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.XtraGrid.v15.2.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.Data.v15.2.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.Utils.v15.2.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.Printing.v15.2.Core.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.Sparkline.v15.2.Core.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.XtraPrinting.v15.2.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.RichEdit.v15.2.Core.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.XtraBars.v15.2.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.XtraTreeList.v15.2.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.Office.v15.2.Core.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.Pdf.v15.2.Core.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.Pdf.v15.2.Drawing.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\KaliteGiris.UITest.pdb
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\KaliteGirisProje.pdb
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\Lab.WinForms.pdb
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.XtraLayout.v15.2.xml
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.XtraEditors.v15.2.xml
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.XtraGrid.v15.2.xml
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.Data.v15.2.xml
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.Utils.v15.2.xml
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.Printing.v15.2.Core.xml
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.Sparkline.v15.2.Core.xml
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.XtraPrinting.v15.2.xml
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.RichEdit.v15.2.Core.xml
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.XtraBars.v15.2.xml
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.XtraTreeList.v15.2.xml
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.Office.v15.2.Core.xml
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.Pdf.v15.2.Core.xml
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.Pdf.v15.2.Drawing.xml
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\de\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\es\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\ja\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\ru\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\de\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\es\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\ja\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\ru\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\de\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\es\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\ja\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\ru\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\de\DevExpress.Data.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\es\DevExpress.Data.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\ja\DevExpress.Data.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\ru\DevExpress.Data.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\de\DevExpress.Utils.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\es\DevExpress.Utils.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\ja\DevExpress.Utils.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\ru\DevExpress.Utils.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\de\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\es\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\ja\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\ru\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\de\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\es\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\de\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\es\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\ja\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\ru\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\de\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\es\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\ja\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\ru\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\de\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\es\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\ja\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\ru\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\de\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\es\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\Newtonsoft.Json.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.Web\bin\Newtonsoft.Json.xml
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\Firma.cs
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\LabTalep.cs
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\Personel.cs
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\LabDataModel.cs
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\LabTalepEf.cs
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\ApplicationInsights.config
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\roslyn\csc.exe
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\roslyn\vbc.exe
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\KaliteGiris.Web.dll.config
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\KaliteGiris.Web.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\KaliteGiris.Web.pdb
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\EntityFramework.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\KaliteGiris.Bll.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\KaliteGiris.EfDal.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\KaliteGiris.Entities.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\KaliteGiris.Helper.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\KaliteGiris.IEfDal.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\KaliteGiris.UITest.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\KaliteGirisProje.exe
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\Lab.WinForms.exe
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\MailSending.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\Microsoft.AI.Web.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\Newtonsoft.Json.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\System.Web.Helpers.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\System.Web.Mvc.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\System.Web.Razor.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\System.Web.Webpages.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.XtraLayout.v18.1.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.XtraEditors.v18.1.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.XtraGrid.v18.1.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.Utils.v18.1.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.Data.v18.1.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.Printing.v18.1.Core.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.XtraPrinting.v18.1.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.XtraBars.v18.1.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.RichEdit.v18.1.Core.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.XtraTreeList.v18.1.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.Office.v18.1.Core.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.Images.v18.1.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\KaliteGiris.Bll.pdb
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\KaliteGiris.EfDal.pdb
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\KaliteGiris.Entities.pdb
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\KaliteGiris.Helper.pdb
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\KaliteGiris.IEfDal.pdb
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\KaliteGiris.UITest.pdb
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\KaliteGirisProje.pdb
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\Lab.WinForms.pdb
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\MailSending.pdb
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\EntityFramework.xml
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\Microsoft.AI.Web.xml
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\Newtonsoft.Json.xml
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\System.Web.Razor.xml
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\System.Web.Webpages.xml
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\System.Web.Helpers.xml
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\System.Web.Mvc.xml
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.XtraLayout.v18.1.xml
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.XtraEditors.v18.1.xml
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.XtraGrid.v18.1.xml
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.Utils.v18.1.xml
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.Data.v18.1.xml
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.Printing.v18.1.Core.xml
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.XtraPrinting.v18.1.xml
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.XtraBars.v18.1.xml
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.RichEdit.v18.1.Core.xml
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.XtraTreeList.v18.1.xml
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.Office.v18.1.Core.xml
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\de\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\es\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\ja\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\ru\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\de\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\es\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\ja\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\ru\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\de\DevExpress.Utils.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\es\DevExpress.Utils.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\ja\DevExpress.Utils.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\ru\DevExpress.Utils.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\de\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\es\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\ja\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\ru\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\de\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\es\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\ja\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\ru\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\de\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\es\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\ja\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\ru\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\de\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\es\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\ja\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\ru\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\obj\Debug\KaliteGiris.Web.csprojResolveAssemblyReference.cache
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\obj\Debug\KaliteGiris.Web.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\obj\Debug\KaliteGiris.Web.pdb
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\LabDataModel.cs
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\LabTalepEf.cs
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\Firma.cs
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\LabTalep.cs
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\Personel.cs
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\ApplicationInsights.config
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\roslyn\csc.exe
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\roslyn\System.Collections.Immutable.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\roslyn\System.Reflection.Metadata.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\roslyn\vbc.exe
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\roslyn\VBCSCompiler.exe
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\roslyn\VBCSCompiler.exe.config
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\KaliteGiris.Web.dll.config
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\KaliteGiris.Web.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\KaliteGiris.Web.pdb
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\EntityFramework.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\EntityFramework.SqlServer.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\KaliteGiris.Bll.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\KaliteGiris.EfDal.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\KaliteGiris.Entities.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\KaliteGiris.Helper.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\KaliteGiris.IEfDal.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\KaliteGiris.UITest.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\KaliteGirisProje.exe
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\Lab.WinForms.exe
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\MailSending.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\Microsoft.AI.DependencyCollector.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\Microsoft.AI.Web.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\Microsoft.AI.WindowsServer.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\Microsoft.ApplicationInsights.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\Newtonsoft.Json.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\System.Web.Helpers.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\System.Web.Mvc.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\System.Web.Razor.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\System.Web.Webpages.Deployment.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\System.Web.Webpages.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\System.Web.Webpages.Razor.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.XtraLayout.v18.1.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.XtraEditors.v18.1.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.XtraGrid.v18.1.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.Utils.v18.1.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.Data.v18.1.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.Printing.v18.1.Core.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.Sparkline.v18.1.Core.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.XtraPrinting.v18.1.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.Pdf.v18.1.Core.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.XtraBars.v18.1.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.RichEdit.v18.1.Core.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.XtraTreeList.v18.1.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.Office.v18.1.Core.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.Images.v18.1.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\KaliteGiris.Bll.pdb
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\KaliteGiris.EfDal.pdb
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\KaliteGiris.Entities.pdb
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\KaliteGiris.Helper.pdb
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\KaliteGiris.IEfDal.pdb
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\KaliteGiris.UITest.pdb
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\KaliteGirisProje.pdb
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\Lab.WinForms.pdb
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\MailSending.pdb
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\EntityFramework.xml
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\EntityFramework.SqlServer.xml
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\Microsoft.AI.DependencyCollector.xml
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\Microsoft.AI.Web.xml
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\Microsoft.AI.WindowsServer.xml
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\Microsoft.ApplicationInsights.xml
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\Newtonsoft.Json.xml
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\System.Web.Razor.xml
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\System.Web.Webpages.xml
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\System.Web.Webpages.Deployment.xml
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\System.Web.Webpages.Razor.xml
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\System.Web.Helpers.xml
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\System.Web.Mvc.xml
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.XtraLayout.v18.1.xml
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.XtraEditors.v18.1.xml
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.XtraGrid.v18.1.xml
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.Utils.v18.1.xml
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.Data.v18.1.xml
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.Printing.v18.1.Core.xml
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.Sparkline.v18.1.Core.xml
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.XtraPrinting.v18.1.xml
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.Pdf.v18.1.Core.xml
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.XtraBars.v18.1.xml
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.RichEdit.v18.1.Core.xml
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.XtraTreeList.v18.1.xml
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\DevExpress.Office.v18.1.Core.xml
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\de\DevExpress.XtraLayout.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\es\DevExpress.XtraLayout.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\ja\DevExpress.XtraLayout.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\ru\DevExpress.XtraLayout.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\de\DevExpress.XtraEditors.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\es\DevExpress.XtraEditors.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\ja\DevExpress.XtraEditors.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\ru\DevExpress.XtraEditors.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\de\DevExpress.XtraGrid.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\es\DevExpress.XtraGrid.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\ja\DevExpress.XtraGrid.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\ru\DevExpress.XtraGrid.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\de\DevExpress.Utils.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\es\DevExpress.Utils.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\ja\DevExpress.Utils.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\ru\DevExpress.Utils.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\de\DevExpress.Data.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\es\DevExpress.Data.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\ja\DevExpress.Data.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\ru\DevExpress.Data.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\de\DevExpress.Printing.v18.1.Core.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\es\DevExpress.Printing.v18.1.Core.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\ja\DevExpress.Printing.v18.1.Core.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\ru\DevExpress.Printing.v18.1.Core.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\de\DevExpress.XtraPrinting.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\es\DevExpress.XtraPrinting.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\ja\DevExpress.XtraPrinting.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\ru\DevExpress.XtraPrinting.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\de\DevExpress.Pdf.v18.1.Core.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\es\DevExpress.Pdf.v18.1.Core.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\de\DevExpress.XtraBars.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\es\DevExpress.XtraBars.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\ja\DevExpress.XtraBars.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\ru\DevExpress.XtraBars.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\de\DevExpress.XtraTreeList.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\es\DevExpress.XtraTreeList.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\ja\DevExpress.XtraTreeList.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\ru\DevExpress.XtraTreeList.v18.1.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\de\DevExpress.Office.v18.1.Core.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\es\DevExpress.Office.v18.1.Core.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\ja\DevExpress.Office.v18.1.Core.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\bin\ru\DevExpress.Office.v18.1.Core.resources.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\obj\Debug\KaliteGiris.Web.csprojResolveAssemblyReference.cache
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\obj\Debug\KaliteGiris.Web.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.Web\obj\Debug\KaliteGiris.Web.pdb

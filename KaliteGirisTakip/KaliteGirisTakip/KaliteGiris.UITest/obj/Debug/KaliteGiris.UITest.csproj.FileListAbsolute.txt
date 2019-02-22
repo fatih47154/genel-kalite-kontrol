@@ -1,0 +1,108 @@
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.UITest\obj\Debug\KaliteGiris.UITest.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\Firma.cs
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\LabTalep.cs
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\Personel.cs
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\LabDataModel.cs
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\LabTalepEf.cs
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\KaliteGiris.UITest.dll.config
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\KaliteGiris.UITest.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\KaliteGiris.UITest.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\EntityFramework.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\KaliteGiris.Bll.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\KaliteGiris.EfDal.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\KaliteGiris.Entities.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\MailSending.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\KaliteGiris.IEfDal.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\KaliteGiris.Helper.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\KaliteGiris.Bll.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\KaliteGiris.EfDal.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\KaliteGiris.Entities.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\MailSending.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\EntityFramework.xml
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\KaliteGiris.IEfDal.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\KaliteGiris.Helper.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.UITest\obj\Debug\KaliteGiris.UITest.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.UITest\obj\Debug\KaliteGiris.UITest.pdb
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\Firma.cs
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\LabTalep.cs
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\Personel.cs
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\LabDataModel.cs
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\LabTalepEf.cs
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\KaliteGiris.UITest.dll.config
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\KaliteGiris.UITest.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\KaliteGiris.UITest.pdb
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\EntityFramework.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\KaliteGiris.Bll.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\KaliteGiris.EfDal.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\KaliteGiris.Entities.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\MailSending.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\KaliteGiris.IEfDal.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\KaliteGiris.Helper.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\KaliteGiris.Bll.pdb
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\KaliteGiris.EfDal.pdb
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\KaliteGiris.Entities.pdb
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\MailSending.pdb
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\EntityFramework.xml
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\KaliteGiris.IEfDal.pdb
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\KaliteGiris.Helper.pdb
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.UITest\obj\Debug\KaliteGiris.UITest.csprojResolveAssemblyReference.cache
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.UITest\obj\Debug\KaliteGiris.UITest.dll
+C:\Users\EBİMSTAJYER\Documents\Visual Studio 2015\Projects\KaliteGirisTakip\KaliteGiris.UITest\obj\Debug\KaliteGiris.UITest.pdb
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\Firma.cs
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\LabTalep.cs
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\Personel.cs
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\LabDataModel.cs
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\LabTalepEf.cs
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\KaliteGiris.UITest.dll.config
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\KaliteGiris.UITest.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\KaliteGiris.UITest.pdb
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\EntityFramework.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\KaliteGiris.Bll.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\KaliteGiris.EfDal.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\KaliteGiris.Entities.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\MailSending.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\KaliteGiris.IEfDal.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\KaliteGiris.Helper.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\KaliteGiris.Bll.pdb
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\KaliteGiris.EfDal.pdb
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\KaliteGiris.Entities.pdb
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\MailSending.pdb
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\EntityFramework.xml
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\KaliteGiris.IEfDal.pdb
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\KaliteGiris.Helper.pdb
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.UITest\obj\Debug\KaliteGiris.UITest.csprojResolveAssemblyReference.cache
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.UITest\obj\Debug\KaliteGiris.UITest.dll
+C:\Users\fatih\Desktop\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.UITest\obj\Debug\KaliteGiris.UITest.pdb
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\LabDataModel.cs
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\LabTalepEf.cs
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\Firma.cs
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\LabTalep.cs
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\Personel.cs
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\KaliteGiris.UITest.dll.config
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\KaliteGiris.UITest.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\KaliteGiris.UITest.pdb
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\EntityFramework.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\EntityFramework.SqlServer.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\KaliteGiris.Bll.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\KaliteGiris.EfDal.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\KaliteGiris.Entities.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\MailSending.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\KaliteGiris.IEfDal.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\KaliteGiris.Helper.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\KaliteGiris.Bll.pdb
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\KaliteGiris.EfDal.pdb
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\KaliteGiris.Entities.pdb
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\MailSending.pdb
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\EntityFramework.xml
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\EntityFramework.SqlServer.xml
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\KaliteGiris.IEfDal.pdb
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.UITest\bin\Debug\KaliteGiris.Helper.pdb
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.UITest\obj\Debug\KaliteGiris.UITest.csprojResolveAssemblyReference.cache
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.UITest\obj\Debug\KaliteGiris.UITest.dll
+E:\Masaüstü\Staj Fatih\KaliteGirisTakip\KaliteGirisTakip\KaliteGiris.UITest\obj\Debug\KaliteGiris.UITest.pdb

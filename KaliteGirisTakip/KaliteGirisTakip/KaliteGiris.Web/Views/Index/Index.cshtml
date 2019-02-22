@@ -1,0 +1,32 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/shared/_MainLayout.cshtml";
+}
+
+
+@foreach (var item in ViewBag.veri)
+{
+    <table>
+        <tr>
+            <td>@item.Name</td>
+            <td>@item.LastName</td>
+        </tr>
+    </table>
+}
+
+
+
+
+@section script{
+
+
+    <script>
+    window.onload = function()
+    {
+        var loader = document.getElementById("anasayfa");
+        loader.className = "active";
+    }
+    </script>
+    }
+

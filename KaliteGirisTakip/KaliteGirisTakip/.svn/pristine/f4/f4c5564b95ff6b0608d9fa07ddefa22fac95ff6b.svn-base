@@ -1,0 +1,48 @@
+﻿using KaliteGiris.IEfDal;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using KaliteGiris.Entities;
+using KaliteGiris.EfDal;
+
+namespace KaliteGiris.Bll
+{
+    public class DurumManager : IDurumEf
+    {
+        IDurumEf DurumEf { get; set; }
+
+        public DurumManager()
+        {
+            DurumEf = new DurumEf();
+        }
+        public int DurumEkle(Durum durum)
+        {
+            int sonuc = 0;
+            sonuc = DurumEf.DurumEkle(durum);
+
+            return sonuc;
+        }
+
+        public int DurumGuncelle(Durum durum)
+        {
+            int sonuc = 0;
+            sonuc = DurumEf.DurumGuncelle(durum);
+
+            return sonuc;
+        }
+
+        public List<Durum> DurumListele()
+        {
+            return DurumEf.DurumListele();
+        }
+        public int DurumSil(Durum durum)
+        {
+            int sonuc = 0;
+            sonuc = DurumEf.DurumSil(durum);
+
+            return sonuc;
+        }
+    }
+}

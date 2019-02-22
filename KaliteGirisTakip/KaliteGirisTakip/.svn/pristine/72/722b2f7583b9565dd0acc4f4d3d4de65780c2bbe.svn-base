@@ -1,0 +1,77 @@
+﻿using KaliteGiris.EfDal;
+using KaliteGiris.Entities;
+using KaliteGiris.IEfDal;
+using System;
+using System.Collections.Generic;
+using System.Data.Entity;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace KaliteGiris.EfDal
+{
+    public class FirmaEf : IFirmaEf
+    {
+        Firma firma { get; set; }
+
+
+        public int FirmaEkle(Firma firma)
+        {
+            int sonuc = 0;
+            try
+            {
+                LabDataModel dataModel = new LabDataModel();
+                dataModel.Firma.Add(firma);
+                sonuc = dataModel.SaveChanges();
+            }
+            catch (Exception ex)
+            {
+            }
+            return sonuc;
+        }
+        public int FirmaGuncelle(Firma firma)
+        {  
+            int sonuc = 0;
+          
+            using (var context = new LabDataModel())
+            {
+                context.Entry(firma).State = EntityState.Modified;
+                context.SaveChanges();
+                sonuc = 1;
+            }
+
+            return sonuc;           
+        }
+        public List<Firma> FirmaListele()
+        {
+            List<Firma> FirmaList = null;
+            try
+            {
+                LabDataModel dataModel = new LabDataModel();                
+                FirmaList = dataModel.Firma.ToList();
+                var result = FirmaList.Where(e => e.FirmaId != null).ToList();
+                FirmaList = result;
+            }
+            catch (Exception ex)
+            {
+                //Log4NetLibrary.HataDataBaseLog.LogStart.Error(Log4NetLibrary.GetMethodProperties.GetMethodFullName(), ex);
+            }
+            return FirmaList;
+        }
+        public int FirmaSil(Firma firma)
+        {
+            int sonuc = 0;
+
+            using (var context = new LabDataModel())
+            {
+                context.Entry(firma).State = EntityState.Deleted;
+                context.SaveChanges();
+                sonuc = 1;
+            }
+
+            return sonuc;
+        }
+    }
+
+
+}

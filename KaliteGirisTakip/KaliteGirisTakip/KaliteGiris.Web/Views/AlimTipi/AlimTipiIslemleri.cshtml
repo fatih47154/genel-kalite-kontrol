@@ -1,0 +1,207 @@
+﻿
+@{
+    ViewBag.Title = "AlimTipiIslemleri";
+    Layout = "~/Views/shared/_MainLayout.cshtml";
+}
+
+@section head{
+    <link href="/Content/assets/advanced-datatable/media/css/demo_page.css" rel="stylesheet" />
+    <link href="/Content/assets/advanced-datatable/media/css/demo_table.css" rel="stylesheet" />
+    <link href="css/style.css" rel="stylesheet">
+    <link href="css/style-responsive.css" rel="stylesheet" />
+}
+
+<div class="row">
+    <div class="col-lg-12">
+        <section class="panel">
+            @{
+                if (TempData["a"] != null)
+                {
+                    if (TempData["b"] != null)
+                    {
+                        <div class="alert alert-success alert-dismissable">
+                            <button type="button" class="close" data-dismiss="alert">&times;</button>
+                            <strong>@TempData["a"]</strong>
+                        </div>
+                    }
+                    else if (TempData["c"] != null)
+                    {
+                        <div class="alert alert-danger alert-dismissible">
+                            <button type="button" class="close" data-dismiss="alert">&times;</button>
+                            <strong>@TempData["a"]</strong>
+                        </div>
+                    }
+                    else if (TempData["e"] != null)
+                    {
+                        <div class="alert alert-danger alert-dismissible">
+                            <strong>@TempData["a"]</strong>
+                            <a href="/Durum/Goster/@TempData["id"]" class="btn btn-primary btn-xs pull-right">Göster</a>
+                        </div>
+                    }
+                }
+            }
+            <div class="panel-body">
+                <div class="row">
+                    <div class="col-lg-6" style="border-right:solid;">
+                        <header style="margin-left:-3%;" class="panel-heading">
+                            <b>Alım Tipi Listesi</b>
+                        </header>
+                        <div class="adv-table">
+                            <table class="display table table-bordered table-striped" id="example">
+                                <thead class="black white-text">
+                                    <tr>
+                                        <th>Alım Tipi Adı</th>
+                                        <th>Düzenle</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var item in ViewBag.ListAlimTipi)
+                                    {
+                                        <tr class="gradeX">
+                                            <td>@item.AlimTipiAdi</td>
+                                            <td>
+                                                <a href="/AlimTipi/AlimTipiDuzenle/@item.AlimTipiId" class="btn btn-primary btn-xs"><i class="icon-pencil"></i></a>
+                                                <a href="/AlimTipi/AlimTipiSil/@item.AlimTipiId" class="btn btn-danger btn-xs"><i class="icon-trash"></i></a>
+                                            </td>
+                                        </tr>
+                                    }
+                                </tbody>
+                                <tfoot>
+                                    <tr>
+                                        <th>Alım Tipi Adı</th>
+                                        <th>Düzenle</th>
+                                    </tr>
+                                </tfoot>
+                            </table>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        @if (TempData["d"] == null)
+                        {
+                            <header style="margin-left:-3%;" class="panel-heading">
+                                <b>Alım Tipi Ekle</b>
+                            </header>
+                            <div>
+                                <form method="post" action="/AlimTipi/AlimTipiEkle">
+                                    <div class="form-group">
+                                        <label>Alım Tipi Adı</label>&nbsp;<span style="color:red;">*</span>
+                                        <input name="AlimTipiAdi" class="form-control" required>
+                                    </div>
+                                   
+                                    <div class="form-group">
+                                        <button type="submit" id="button" class="btn btn-info">Kaydet</button>
+                                        <a href="/AlimTipi/AlimTipiIslemleri" class="btn btn-danger">İptal</a>
+                                        <button type="reset" class="btn btn-default">Temizle</button>
+                                    </div>
+                                </form>
+                            </div>
+                        }
+                        @*@if (TempData["d"] != null)
+                        {
+                            <header style="margin-left:-3%;" class="panel-heading">
+                                <b>Durum Düzenle</b>
+                            </header>
+                            <div>
+                                <form method="post" action="/Durum/DurumDuzenle">
+                                    <div class="form-group">
+                                        <label>Durum Adı</label>&nbsp;<span style="color:red;">*</span>
+                                        <input name="DurumAdi" value="@ViewBag.veri.DurumAdi" class="form-control" required>
+                                        <input name="DurumId" hidden value="@ViewBag.veri.DurumId" />
+                                    </div>
+                                    <input type="hidden" value="@ViewBag.veri.CreatedDate" name="CreatedDate" />
+                                    <div class="form-group">
+                                        <label>Durum Tipi</label>&nbsp;<span style="color:red;">*</span>
+                                        <select onchange="show_selected()" id="durum" class="form-control m-bot15" name="DurumTipiId">
+                                            <option value="default">Durum Tipi Seçiniz</option>
+                                            @foreach (var item in ViewBag.ListDurumTipi)
+                                            {
+                                                if (ViewBag.veri.DurumTipiId == item.DurumTipiId)
+                                                {
+                                                    <option selected value="@item.DurumTipiId">@item.DurumTip</option>
+                                                }
+                                                else
+                                                {
+                                                    <option value="@item.DurumTipiId">@item.DurumTip</option>
+                                                }
+                                            }
+                                        </select>
+                                    </div>
+                                    <div class="form-group">
+                                        <button type="submit" id="button1" class="btn btn-info">Güncelle</button>
+                                        <a href="/Durum/DurumIslemleri" class="btn btn-danger">İptal</a>
+                                        <button type="reset" class="btn btn-default">Temizle</button>
+                                    </div>
+                                </form>
+                            </div>
+                        }*@
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+</div>
+
+
+
+@section script{
+    <script>
+        window.onload = function () {
+            $('#AlimTipIslemleri').addClass('active');
+            document.getElementById("AlimTipiIslemleri").class += " active";
+        }
+
+        $(document).ready(function () {
+            $('#example').dataTable({
+                "aaSorting": [[4, "desc"]]
+            });
+        });
+    </script>
+
+    <script type="text/javascript">
+    function show_selected(){
+        "use strict";
+        var selector = document.getElementById('durum');
+        var valuea = selector[selector.selectedIndex].value;
+
+        if (valuea == 'default') {
+            $('#button').removeClass('btn btn-info');
+            $('#button').addClass('btn btn-info disabled');
+            document.getElementById('button').disabled = true;
+        }
+        else {
+            $('#button').removeClass('btn btn-info disabled');
+            $('#button').addClass('btn btn-info');
+            document.getElementById('button').disabled = false;
+        }
+    };
+    window.onload = show_selected();
+    </script>
+
+    <script type="text/javascript">
+    function show_selected1(){
+        "use strict";
+        var selector = document.getElementById('durum1');
+        var valuea = selector[selector.selectedIndex].value;
+
+        if (valuea == 'default') {
+            $('#button1').removeClass('btn btn-info');
+            $('#button1').addClass('btn btn-info disabled');
+            document.getElementById('button').disabled = true;
+        }
+        else {
+            $('#button1').removeClass('btn btn-info disabled');
+            $('#button1').addClass('btn btn-info');
+            document.getElementById('button').disabled = false;
+        }
+    };
+    window.onload = show_selected();
+    </script>
+
+    <script type="text/javascript" language="javascript" src="/Content/assets/advanced-datatable/media/js/jquery.dataTables.js"></script>
+    <script>
+    window.onload = function()
+    {
+        $('#AlimTipiIslemleri').addClass('active');
+    }</script>
+}
+

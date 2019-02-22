@@ -1,0 +1,41 @@
+﻿using KaliteGiris.IEfDal;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using KaliteGiris.Entities;
+using KaliteGiris.EfDal;
+
+namespace KaliteGiris.Bll
+{
+    public class PersonelManager : IPersonelEf
+    {
+        IPersonelEf PersonelEf { get; set; }
+
+        public PersonelManager()
+        {
+            PersonelEf = new PersonelEf();
+        }
+        public int PersonelEkle(Personel Personel)
+        {
+            int sonuc = 0;
+            sonuc = PersonelEf.PersonelEkle(Personel);
+
+            return sonuc;
+        }
+
+        public int PersonelGuncelle(Personel Personel)
+        {
+            int sonuc = 0;
+            sonuc = PersonelEf.PersonelGuncelle(Personel);
+
+            return sonuc;
+        }
+
+        public List<Personel> PersonelListele()
+        {
+            return PersonelEf.PersonelListele();
+        }
+    }
+}

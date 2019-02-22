@@ -1,0 +1,245 @@
+﻿
+@{
+    ViewBag.Title = "RolIslemleri";
+    Layout = "~/Views/shared/_MainLayout.cshtml";
+}
+
+@section head{
+    <link href="/Content/assets/advanced-datatable/media/css/demo_page.css" rel="stylesheet" />
+    <link href="/Content/assets/advanced-datatable/media/css/demo_table.css" rel="stylesheet" />
+    <link href="css/style.css" rel="stylesheet">
+    <link href="css/style-responsive.css" rel="stylesheet" />
+}
+
+<div class="row">
+    <div class="col-lg-12">
+        <section class="panel">
+            @{
+                if (TempData["a"] != null)
+                {
+                    if (TempData["b"] != null)
+                    {
+                        <div class="alert alert-success alert-dismissable">
+                            <button type="button" class="close" data-dismiss="alert">&times;</button>
+                            <strong>@TempData["a"]</strong>
+                        </div>
+                    }
+                    else if (TempData["c"] != null)
+                    {
+                        <div class="alert alert-danger alert-dismissible">
+                            <button type="button" class="close" data-dismiss="alert">&times;</button>
+                            <strong>@TempData["a"]</strong>
+                        </div>
+                    }
+                }
+            }
+            <div class="panel-body">
+                <div class="row">
+                    <div class="col-lg-6" style="border-right:solid;">
+                        <header style="margin-left:-3%;" class="panel-heading">
+                            <b>Menü Rol Listesi</b>
+                        </header>
+                        <div class="adv-table">
+                            <table class="display table table-bordered table-striped" id="example">
+                                <thead class="black white-text">
+                                    <tr>
+                                        <th>Rol Adı</th>
+                                        <th>Menu Adı</th>
+                                        
+                                        <th>Düzenle</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var item in ViewBag.ListMenuRole)
+                                    {
+                                        <tr class="gradeX">
+                                            <td>
+                                                @item.Rol.RolName
+                                            </td>
+                                            <td>@item.NavigationMenu.MenuName</td>
+                                            
+                                            <td>
+                                                <a href="/Rol/RolDuzenle/@item.MenuRolId" class="btn btn-primary btn-xs"><i class="icon-pencil"></i></a>
+                                                <a href="/Rol/MenuRolSil/@item.MenuRolId" class="btn btn-danger btn-xs"><i class="icon-trash"></i></a>
+                                            </td>
+                                        </tr>
+                                    }
+                                </tbody>
+                                <tfoot>
+                                    <tr>
+                                        <th>Rol Adı</th>
+                                        <th>Menu Adı</th>
+                                        
+                                        <th>Düzenle</th>
+                                    </tr>
+                                </tfoot>
+                            </table>
+                            @{
+                                <div class="row">
+                                    <div class="col-lg-6">
+                                        @if (TempData["Tümünü Göster"] != null)
+                                        {
+                                            <a href="../../Rol/RolIslemleri" class="btn btn-info">Tümünü Göster</a>
+                                        }
+                                    </div>
+                                </div>
+                            }
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        @if (TempData["d"] == null)
+                        {
+                            <header style="margin-left:-3%;" class="panel-heading">
+                                <b>Rol Ata</b>
+                            </header>
+                            <div>
+                                <form method="post" action="/Rol/RolAta">
+                                    <div class="form-group">
+                                        <label>Menüler</label>&nbsp;<span style="color:red;">*</span>
+                                        <select onchange="show_selected()" id="durum" class="form-control m-bot15" name="MenuId">
+                                            <option value="default">Menu Seçiniz</option>
+                                            @foreach (var item in ViewBag.ListMenu)
+                                            {
+                                                <option value="@item.MenuId">@item.MenuName</option>
+                                            }
+                                        </select>
+                                    </div>
+                                    <div class="form-group">
+                                        <label>Roller</label>&nbsp;<span style="color:red;">*</span>
+                                        <select onchange="show_selected1()" id="durum1" class="form-control m-bot15" name="RolId">
+                                            <option value="default">Rol Seçiniz</option>
+                                            @foreach (var item in ViewBag.ListRol)
+                                            {
+                                                <option value="@item.RolId">@item.RolName</option>
+                                            }
+                                        </select>
+                                    </div>
+                                    <div class="form-group">
+                                        <button type="submit" id="button" class="btn btn-info">Kaydet</button>
+                                        <a href="/Rol/RolIslemleri" class="btn btn-danger">Geri</a>
+                                        <button type="reset" class="btn btn-default">Temizle</button>
+                                    </div>
+                                </form>
+                            </div>
+                        }
+                        @if (TempData["d"] != null)
+                        {
+                            <header style="margin-left:-3%;" class="panel-heading">
+                                <b>Rol Düzenle</b>
+                            </header>
+                            <div>
+                                <form method="post" action="/Rol/RolDuzenle">
+                                    <input type="text" name="CreatedDate" hidden value="@ViewBag.veri.CreatedDate" />
+                                    <input type="text" name="MenuRolId" hidden value="@ViewBag.veri.MenuRolId" />
+                                    <div class="form-group">
+                                        <label>Menüler</label>&nbsp;<span style="color:red;">*</span>
+                                        <select onchange="show_selected()" id="durum" class="form-control m-bot15" name="MenuId">
+                                            <option value="default">Menu Seçiniz</option>
+                                            @foreach (var item in ViewBag.ListMenu)
+                                            {
+                                                if (item.MenuId == ViewBag.veri.MenuId)
+                                                {
+                                                    <option selected value="@item.MenuId">@item.MenuName</option>
+                                                }
+                                                else
+                                                {
+                                                    <option value="@item.MenuId">@item.MenuName</option>
+                                                }
+                                            }
+                                        </select>
+                                    </div>
+                                    <div class="form-group">
+                                        <label>Roller</label>&nbsp;<span style="color:red;">*</span>
+                                        <select onchange="show_selected1()" id="durum1" class="form-control m-bot15" name="RolId">
+                                            <option value="default">Rol Seçiniz</option>
+                                            @foreach (var item in ViewBag.ListRol)
+                                            {
+                                                if (item.RolId == ViewBag.veri.RolId)
+                                                {
+                                                    <option selected value="@item.RolId">@item.RolName</option>
+                                                }
+                                                else
+                                                {
+                                                    <option value="@item.RolId">@item.RolName</option>
+                                                }
+                                            }
+                                        </select>
+                                    </div>
+                                    <div class="form-group">
+                                        <button type="submit" id="button" class="btn btn-info">Kaydet</button>
+                                        <a href="/Rol/RolIslemleri" class="btn btn-danger">İptal</a>
+                                        <button type="reset" class="btn btn-default">Temizle</button>
+                                    </div>
+                                </form>
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+</div>
+
+
+
+@section script{
+    <script>
+        window.onload = function () {
+            $('#rolIslemleri').addClass('active');
+        }
+
+        $(document).ready(function () {
+            $('#example').dataTable({
+                "aaSorting": [[4, "desc"]]
+            });
+        });
+    </script>
+
+    <script type="text/javascript">
+    function show_selected(){
+        "use strict";
+        var selector = document.getElementById('durum');
+        var valuea = selector[selector.selectedIndex].value;
+
+        if (valuea == 'default') {
+            $('#button').removeClass('btn btn-info');
+            $('#button').addClass('btn btn-info disabled');
+            document.getElementById('button').disabled = true;
+        }
+        else {
+            $('#button').removeClass('btn btn-info disabled');
+            $('#button').addClass('btn btn-info');
+            document.getElementById('button').disabled = false;
+        }
+    };
+    window.onload = show_selected();
+    </script>
+
+    <script type="text/javascript">
+    function show_selected1(){
+        "use strict";
+        var selector = document.getElementById('durum1');
+        var valuea = selector[selector.selectedIndex].value;
+
+        if (valuea == 'default') {
+            $('#button1').removeClass('btn btn-info');
+            $('#button1').addClass('btn btn-info disabled');
+            document.getElementById('button').disabled = true;
+        }
+        else {
+            $('#button1').removeClass('btn btn-info disabled');
+            $('#button1').addClass('btn btn-info');
+            document.getElementById('button').disabled = false;
+        }
+    };
+    window.onload = show_selected();
+    </script>
+
+    <script type="text/javascript" language="javascript" src="/Content/assets/advanced-datatable/media/js/jquery.dataTables.js"></script>
+    <script>
+    window.onload = function()
+    {
+        $('#rolIslemleri').addClass('active');
+    }</script>
+}
+

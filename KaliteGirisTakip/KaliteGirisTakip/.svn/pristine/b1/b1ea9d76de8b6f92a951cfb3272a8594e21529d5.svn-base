@@ -1,0 +1,68 @@
+﻿using KaliteGiris.Bll;
+using KaliteGiris.Entities;
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Lab.WinForms
+{
+    public partial class frmLab : Form
+    {
+        private LabTalepManager LabTalepManager { get; set; }
+        private FirmaManager FirmaManager { get; set; }
+        private List<LabTalep> listLab { get; set; }
+        private List<Firma> listFirma { get; set; }
+        public frmLab()
+        {
+            InitializeComponent();
+            LabTalepManager = new LabTalepManager();
+            FirmaManager =new FirmaManager();
+        }
+
+        private void frmLab_Load(object sender, EventArgs e)
+        {
+            FirmaGetir();
+
+           LabListGetir();            
+        }
+        private void FirmaGetir()
+        {
+            
+            listFirma = FirmaManager.FirmaListele();
+            var selected = listFirma.Select(x => new { x.FirmaId, x.FirmaAdi });
+            bsFirma.DataSource = selected;
+            txtFirmaAdi.Properties.ValueMember = "FirmaId";
+            txtFirmaAdi.Properties.DisplayMember = "FirmaAdi";
+            txtFirmaAdi.Properties.PopulateColumns();
+            txtFirmaAdi.Properties.Columns["FirmaId"].Visible = false;
+            //txtFirmaAdi.Properties.Columns["Durum"].Visible = false;
+
+        }
+
+        private void LabListGetir()
+        {
+            listLab = LabTalepManager.LabTalepListele();
+            labTalepBindingSource.DataSource = listLab;
+            gcLab.DataSource = labTalepBindingSource;
+        }
+
+        private void btnYeni_Click(object sender, EventArgs e)
+        {
+            TextleriTemizle();
+        }
+
+        private void TextleriTemizle()
+        {
+            txtAciklama.Text = "";
+
+
+            txtTarih.Focus();
+        }
+    }
+}

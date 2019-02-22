@@ -1,0 +1,88 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using KaliteGiris.Bll;
+using KaliteGiris.Entities;
+
+namespace Lab.WinForms
+{
+    public partial class Form1 : Form
+    {
+        LabTalepManager LabTalepManager { get; set; }
+        List<LabTalep> LabTalep { get; set; }
+       
+        public Form1()
+        {
+            InitializeComponent();
+            LabTalepManager = new LabTalepManager();            
+            
+        }
+       
+        public void LabTalepListele()
+        {
+            try
+             {
+                LabTalep = new List<LabTalep>();
+                LabTalep = LabTalepManager.LabTalepListele();
+                labTalepBindingSource.DataSource = LabTalep;
+            }
+
+            catch (Exception ex)
+            {
+                
+            }
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            LabTalepListele();
+            DataGridViewComboBoxColumn combo = new DataGridViewComboBoxColumn();
+            combo.Items.AddRange("A Firması", "B Firması", "X Firması");
+            combo.HeaderText = "FirmaAdi";
+            dataGridView1.Columns.Add(combo);
+            int sayi = dataGridView1.Columns.Count - 1;
+            dataGridView1.Columns[sayi].DisplayIndex = 2;
+        }
+
+
+
+        /*
+        protected virtual void OnOdaSelectEvent(Oda oda)
+        {
+            OdaSelectEvent?.Invoke(oda);
+        }
+        private void frmOdaSelect_Load(object sender, EventArgs e)
+        {
+            Listele();
+        }
+
+        private void gridView1_DoubleClick_1(object sender, EventArgs e)
+        {
+            if (this.gvOda.RowCount > 0)
+            {
+                Oda = (Oda)gvOda.GetRow(gvOda.RowCount);
+
+                if (Oda != null)
+                    OnOdaSelectEvent(Oda);
+                this.Close();
+            }
+        }
+
+        private void gridView1_FocusedRowChanged_1(object sender, DevExpress.XtraGrid.Views.Base.FocusedRowChangedEventArgs e)
+        {
+            int rowIndex = e.FocusedRowHandle;
+
+            if (rowIndex > -1)
+            {
+                Oda = (Oda)gvOda.GetRow(rowIndex);
+                OnOdaSelectEvent(Oda);
+            }
+        }*/
+    }
+}

@@ -1,0 +1,18 @@
+namespace KaliteGiris.EfDal.Migrations
+{
+    using System;
+    using System.Data.Entity.Migrations;
+    
+    public partial class SiraUpdate : DbMigration
+    {
+        public override void Up()
+        {
+            AlterColumn("dbo.LabTalep", "Sira", c => c.Int(nullable: false));
+        }
+        
+        public override void Down()
+        {
+            AlterColumn("dbo.LabTalep", "Sira", c => c.Int(nullable: false, identity: true));
+        }
+    }
+}

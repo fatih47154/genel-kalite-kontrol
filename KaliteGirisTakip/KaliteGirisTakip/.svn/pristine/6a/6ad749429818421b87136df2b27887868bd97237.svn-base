@@ -1,0 +1,42 @@
+﻿using System;
+using System.Text;
+using System.Collections.Generic;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
+using MailSending;
+using KaliteGiris.Entities;
+using KaliteGiris.EfDal;
+using KaliteGiris.Bll;
+
+namespace KaliteGiris.UITest
+{
+    /// <summary>
+    /// Summary description for MailSendTest
+    /// </summary>
+    [TestClass]
+    public class MailSendTest
+    {
+        public MailSendTest()
+        {
+            //
+            // TODO: Add constructor logic here
+            //
+        }    
+        [TestMethod]
+        public void TestMethodMailSendTest()
+        {
+            Personel personel = new Personel();
+            personel.Email = "burcu_54_95@hotmail.com";
+            personel.Adi = "burcu";
+            personel.Soyadi = "bodur";
+
+            
+            PersonelManager personelManager = new PersonelManager();
+            bool result =personelManager.MailGonder(personel);
+
+            Assert.AreEqual(result, true);
+
+
+
+        }
+    }
+}

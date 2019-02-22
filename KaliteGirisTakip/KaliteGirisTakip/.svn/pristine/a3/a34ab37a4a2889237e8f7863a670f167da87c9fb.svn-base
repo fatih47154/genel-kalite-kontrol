@@ -1,0 +1,23 @@
+﻿
+namespace Lab.Entities
+{
+    using KaliteGirisProje;
+    using System.Data.Entity;
+
+    public partial class LabDataModel : DbContext
+    {
+        public LabDataModel()
+            :base("name=LabDataModel")
+        {
+        }
+        //public virtual DbSet<C__MigrationHistory> C__MigrationHistory { get; set; }
+        public virtual DbSet<Firma> Firma { get; set; }
+        public virtual DbSet<Kayit> Kayit { get; set; }
+        public virtual DbSet<LabTalep> LabTalep { get; set; }
+        public virtual DbSet<Personel> Personel { get; set; }
+       
+        protected override void OnModelCreating(DbModelBuilder modelBuilder)
+        {
+        }
+    }
+}
